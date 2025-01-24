@@ -39,6 +39,7 @@
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Meson](#meson)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -142,7 +143,7 @@
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) - User-mode networking for unprivileged network namespaces
 - [dyne/frei0r](https://github.com/dyne/frei0r) - A large collection of free and portable video plugins
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
@@ -259,6 +260,7 @@
 
 ## C++ 
 
+- [google/android-cuttlefish](https://github.com/google/android-cuttlefish) - Cuttlefish host support debian package.
 - [PentHertz/OpenBTS](https://github.com/PentHertz/OpenBTS) - GSM+GPRS Radio Access Network Node reloaded for 2024 for newest UHD drivers and supporting Ubuntu 22.04
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
@@ -339,7 +341,7 @@
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
-- [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [johnBuffer/AntSimulator](https://github.com/johnBuffer/AntSimulator) - Simple Ants simulator
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
@@ -460,6 +462,7 @@
 
 ## Go 
 
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [bepass-org/warp-plus](https://github.com/bepass-org/warp-plus) - Warp+Psiphon, an anti censorship utility for iran
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -553,6 +556,7 @@
 
 ## HTML 
 
+- [sapegin/blank-sky](https://github.com/sapegin/blank-sky) - Beautiful twilight sky inspired new tab page replacement for your browser
 - [vitorsr/cc](https://github.com/vitorsr/cc) - Creative Commons copyright license files
 - [miawinter98/Wave](https://github.com/miawinter98/Wave) - The Collaborative Open Source Blogging Engine
 - [miawinter98/just-short-it](https://github.com/miawinter98/just-short-it) - Just Short It (damnit)! The most KISS single-user URL shortener there is.
@@ -587,7 +591,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-- [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
+- [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [chrisk44/Hijacker](https://github.com/chrisk44/Hijacker) - Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android
 - [iTXTech/Daedalus](https://github.com/iTXTech/Daedalus) - No root required Android DNS modifier and Hosts/DNSMasq resolver.
 - [apache/guacamole-client](https://github.com/apache/guacamole-client) - Mirror of Apache Guacamole Client
@@ -614,7 +618,7 @@
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 - [bottom-software-foundation/bottom-java](https://github.com/bottom-software-foundation/bottom-java) - 🥺
-- [AceKiron/PronounMC](https://github.com/AceKiron/PronounMC) - A Minecraft plugin for sharing pronouns.
+- [PronounMC/pmc-base](https://github.com/PronounMC/pmc-base) - A Minecraft plugin for sharing pronouns.
 - [Elikill58/Negativity](https://github.com/Elikill58/Negativity) - Github of Negativity, a Minecraft AntiCheat. Premium at 8€:
 - [MrMicky-FR/FastInv](https://github.com/MrMicky-FR/FastInv) - Lightweight and easy-to-use inventory API for Bukkit plugins.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
@@ -644,6 +648,7 @@
 
 ## JavaScript 
 
+- [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [shy1132/gtk2wine](https://github.com/shy1132/gtk2wine) - convert current gtk theme to .reg theme for use with wine
 - [Soushi-Atsumi/Open-in-Sidebar](https://github.com/Soushi-Atsumi/Open-in-Sidebar) - Very simple and useful extension. You can open a link in the sidebar.
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
@@ -782,6 +787,7 @@
 
 ## Lua 
 
+- [luadns/dns](https://github.com/luadns/dns) - Template Repository for getting started with LuaDNS.
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A Lite XL plugin manager.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [lite-xl/lite-xl-lsp](https://github.com/lite-xl/lite-xl-lsp) - LSP Plugin for Lite XL editor
@@ -796,7 +802,7 @@
 - [lite-xl/lite-xl-colors](https://github.com/lite-xl/lite-xl-colors) - Themes for the Lite XL editor
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [pandorabox-io/pandorabox-mods](https://github.com/pandorabox-io/pandorabox-mods) - Pandorabox meta repository
-- [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game -  A lightweight and well-maintained base for modding [https://github.com/minetest/minetest/]
+- [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game) - Minetest Game -  A lightweight and well-maintained base for Luanti, intended for modding
 - [rxi/lite-plugins](https://github.com/rxi/lite-plugins) - Plugins for the lite text editor
 
 ## Makefile 
@@ -807,6 +813,10 @@
 - [starfive-tech/VisionFive2](https://github.com/starfive-tech/VisionFive2) - 
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
 - [artix-linux/artixlinux-docker](https://github.com/artix-linux/artixlinux-docker) - This is a copy of artixlinux-docker, development should be handled at gitea.artixlinuxorg.
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Nim 
 
@@ -824,6 +834,7 @@
 
 ## Others 
 
+- [sleirsgoevy/exynos-kvm-patch](https://github.com/sleirsgoevy/exynos-kvm-patch) - Kernel patch to enable KVM/ARM on Samsung Exynos phones.
 - [listumps/wine_themes](https://github.com/listumps/wine_themes) - A collection of original and restyled .msstyles themes for wine
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
@@ -932,7 +943,7 @@
 
 - [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [infobyte/evilgrade](https://github.com/infobyte/evilgrade) - Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates.
 
 ## PowerShell 
@@ -944,6 +955,7 @@
 
 ## Python 
 
+- [nitanmarcel/waydroid-magisk](https://github.com/nitanmarcel/waydroid-magisk) - Kitsune Mask (magisk) manager for Waydroid.
 - [user1342/DISintegrity](https://github.com/user1342/DISintegrity) - A tool for analysing Android APKs and extracting root, integrity, and tamper detection checks.
 - [unix3dgforce/lpunpack](https://github.com/unix3dgforce/lpunpack) - command-line tool for extracting partition images from super
 - [alex-s-v/10moons-driver](https://github.com/alex-s-v/10moons-driver) - Simple driver for 10moons T503 tablet for linux
@@ -1238,7 +1250,7 @@
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [docker-library/golang](https://github.com/docker-library/golang) - Docker Official Image packaging for golang
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [kicsikrumpli/wine-pyinstaller](https://github.com/kicsikrumpli/wine-pyinstaller) - Compile Python 3.x scripts with Pyinstaller into 32 bit Windows executables on Ubuntu with Wine
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
