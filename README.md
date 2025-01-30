@@ -97,6 +97,7 @@
 
 ## C 
 
+- [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [qq502233945/EXO-linux](https://github.com/qq502233945/EXO-linux) - Modified Linux kernel v6.1, add support for eBPF IO
 - [Project-Silicium/Mu-Silicium](https://github.com/Project-Silicium/Mu-Silicium) - Project Mu UEFI Implementation for various AARCH64/ARM Devices
 - [jrlevine/grepcidr3](https://github.com/jrlevine/grepcidr3) - High performance search for IP addresses and CIDR ranges
@@ -260,6 +261,7 @@
 
 ## C++ 
 
+- [raspberrypi/libcamera](https://github.com/raspberrypi/libcamera) - 
 - [google/android-cuttlefish](https://github.com/google/android-cuttlefish) - Cuttlefish host support debian package.
 - [PentHertz/OpenBTS](https://github.com/PentHertz/OpenBTS) - GSM+GPRS Radio Access Network Node reloaded for 2024 for newest UHD drivers and supporting Ubuntu 22.04
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
@@ -462,6 +464,7 @@
 
 ## Go 
 
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [bepass-org/warp-plus](https://github.com/bepass-org/warp-plus) - Warp+Psiphon, an anti censorship utility for iran
@@ -648,6 +651,7 @@
 
 ## JavaScript 
 
+- [libremap/libremap-webui](https://github.com/libremap/libremap-webui) - The HTML5 webapp for LibreMap - a scalable, global and decentralized router database and map visualization for community networks, such as guifi, Altermundi, FunkFeuer, ninux, freifunk, Commotion...
 - [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [shy1132/gtk2wine](https://github.com/shy1132/gtk2wine) - convert current gtk theme to .reg theme for use with wine
 - [Soushi-Atsumi/Open-in-Sidebar](https://github.com/Soushi-Atsumi/Open-in-Sidebar) - Very simple and useful extension. You can open a link in the sidebar.
@@ -748,6 +752,7 @@
 
 ## Jinja 
 
+- [Wakoma/Lokal](https://github.com/Wakoma/Lokal) - Lokal, offline first, content and services - for and by local communities.
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
 
 ## Jupyter Notebook 
@@ -787,6 +792,7 @@
 
 ## Lua 
 
+- [libremesh/lime-packages](https://github.com/libremesh/lime-packages) - LibreMesh packages configuring OpenWrt for wireless mesh networking
 - [luadns/dns](https://github.com/luadns/dns) - Template Repository for getting started with LuaDNS.
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A Lite XL plugin manager.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -807,6 +813,7 @@
 
 ## Makefile 
 
+- [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [cawilliamson/treble_voltage](https://github.com/cawilliamson/treble_voltage) - Patches used to build  VoltageOS as Trebledroid GSI.
 - [TeamWin/android_device_samsung_a15](https://github.com/TeamWin/android_device_samsung_a15) - Samsung Galaxy A15 MediaTek Helio G99 TWRP device tree | bugs : fastbootd
 - [lsp-plugins/lsp-plugins](https://github.com/lsp-plugins/lsp-plugins) - Linux Studio Plugins Project
@@ -955,6 +962,10 @@
 
 ## Python 
 
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [Wakoma/nimble](https://github.com/Wakoma/nimble) - The nimble.  An open source, rapidly deployable, wireless mesh network.
+- [naftaliharris/tauthon](https://github.com/naftaliharris/tauthon) - Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3.
+- [signag/raspi-cam-srv](https://github.com/signag/raspi-cam-srv) - Web Server for Raspi Camera Access
 - [nitanmarcel/waydroid-magisk](https://github.com/nitanmarcel/waydroid-magisk) - Kitsune Mask (magisk) manager for Waydroid.
 - [user1342/DISintegrity](https://github.com/user1342/DISintegrity) - A tool for analysing Android APKs and extracting root, integrity, and tamper detection checks.
 - [unix3dgforce/lpunpack](https://github.com/unix3dgforce/lpunpack) - command-line tool for extracting partition images from super
@@ -1298,6 +1309,8 @@
 
 ## TypeScript 
 
+- [ShufflePerson/Discord_CDN](https://github.com/ShufflePerson/Discord_CDN) - Bypasses the new Discord Expiry time on download links.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [kathrindc/freeotp-dump](https://github.com/kathrindc/freeotp-dump) - Export all your FreeOTP tokens easily
