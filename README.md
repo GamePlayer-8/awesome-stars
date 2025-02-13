@@ -37,6 +37,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Meson](#meson)
@@ -264,7 +265,7 @@
 
 - [raspberrypi/libcamera](https://github.com/raspberrypi/libcamera) - 
 - [google/android-cuttlefish](https://github.com/google/android-cuttlefish) - Cuttlefish host support debian package.
-- [PentHertz/OpenBTS](https://github.com/PentHertz/OpenBTS) - GSM+GPRS Radio Access Network Node reloaded for 2024 for newest UHD drivers and supporting Ubuntu 22.04
+- [PentHertz/OpenBTS](https://github.com/PentHertz/OpenBTS) - GSM+GPRS Radio Access Network Node reloaded for 2024-2025 for newest UHD drivers and supporting Ubuntu 22.04 & 24.04
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [zpaq/zpaq](https://github.com/zpaq/zpaq) - ZPAQ's complete code history mirror
@@ -472,7 +473,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [zhoreeq/meshname](https://github.com/zhoreeq/meshname) - Meshname, a universal naming system for all IPv6-based mesh networks, including CJDNS and Yggdrasil
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
 - [Yawning/obfs4](https://github.com/Yawning/obfs4) - The obfourscator (Courtesy mirror)
 - [mvdan/fdroidcl](https://github.com/mvdan/fdroidcl) - F-Droid desktop client
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -791,6 +792,10 @@
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+## Less 
+
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
+
 ## Lua 
 
 - [libremesh/lime-packages](https://github.com/libremesh/lime-packages) - LibreMesh packages configuring OpenWrt for wireless mesh networking
@@ -842,6 +847,8 @@
 
 ## Others 
 
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [distributopia/fediverse-relays](https://github.com/distributopia/fediverse-relays) - :ocean: Fediverse relays
 - [sleirsgoevy/exynos-kvm-patch](https://github.com/sleirsgoevy/exynos-kvm-patch) - Kernel patch to enable KVM/ARM on Samsung Exynos phones.
 - [listumps/wine_themes](https://github.com/listumps/wine_themes) - A collection of original and restyled .msstyles themes for wine
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
@@ -1042,7 +1049,7 @@
 - [jansenicus/vtt-to-srt.py](https://github.com/jansenicus/vtt-to-srt.py) - python script to convert all vtt files in a directory and all of its subdirectories to srt subtitle format
 - [argosopentech/argos-train](https://github.com/argosopentech/argos-train) - Training scripts for Argos Translate
 - [vlachoudis/bCNC](https://github.com/vlachoudis/bCNC) - GRBL CNC command sender, autoleveler and g-code editor
-- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
 - [FarmBot/farmbot-mqtt-py](https://github.com/FarmBot/farmbot-mqtt-py) - An MQTT wrapper for FarmBot written in Python
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [ValvePython/steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
@@ -1191,7 +1198,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
@@ -1367,7 +1374,7 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
