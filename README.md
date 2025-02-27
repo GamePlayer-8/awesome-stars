@@ -30,6 +30,7 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -48,6 +49,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [Processing](#processing)
 - [Python](#python)
 - [QML](#qml)
 - [Ruby](#ruby)
@@ -99,6 +101,7 @@
 
 ## C 
 
+- [nmav/ipcalc](https://github.com/nmav/ipcalc) - OBSOLETE REPO: Please use gitlab.com/ipcalc/ipcalc
 - [msm8916-mainline/lk2nd](https://github.com/msm8916-mainline/lk2nd) - Custom bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [bdejong/musicdsp](https://github.com/bdejong/musicdsp) - Sphinx musicdsp
@@ -203,7 +206,7 @@
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [xfce-mirror/xfce4-panel](https://github.com/xfce-mirror/xfce4-panel) - Mirror repository, PRs are not watched, please use Xfce's GitLab
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
@@ -392,7 +395,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [krille-chan/fluffygate](https://github.com/krille-chan/fluffygate) - Dead simple push gateway for Matrix to Firebase Cloud Messaging written in Dart.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -594,6 +597,10 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## JSON 
+
+- [adamus1red/ActivityPub-Relays](https://github.com/adamus1red/ActivityPub-Relays) - 📈 Uptime monitor and status page for Upptime, powered by @upptime
+
 ## Java 
 
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -631,7 +638,7 @@
 - [Elikill58/Negativity](https://github.com/Elikill58/Negativity) - Github of Negativity, a Minecraft AntiCheat. Premium at 8€:
 - [MrMicky-FR/FastInv](https://github.com/MrMicky-FR/FastInv) - Lightweight and easy-to-use inventory API for Bukkit plugins.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-- [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.19/1.20) server implementation in modding environment using Mixin. ⚡
+- [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡
 - [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
 - [SkinsRestorer/SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorer) - The most popular skin plugin for Minecraft
 - [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google Cloud Platform
@@ -657,6 +664,7 @@
 
 ## JavaScript 
 
+- [generalbuch/Thunderbird-Tutanota-Addon](https://github.com/generalbuch/Thunderbird-Tutanota-Addon) - An extension for Mozilla Thunderbird to open your Tutanota mail from the toolbar. This is just a modified version of SaltyAimbOtter's ProtonMail Extension here: https://github.com/SaltyAimbOtter/Thund
 - [libremap/libremap-webui](https://github.com/libremap/libremap-webui) - The HTML5 webapp for LibreMap - a scalable, global and decentralized router database and map visualization for community networks, such as guifi, Altermundi, FunkFeuer, ninux, freifunk, Commotion...
 - [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [shy1132/gtk2wine](https://github.com/shy1132/gtk2wine) - convert current gtk theme to .reg theme for use with wine
@@ -773,6 +781,8 @@
 
 ## Kotlin 
 
+- [adamff-dev/spain-spam-call-blocker-app](https://github.com/adamff-dev/spain-spam-call-blocker-app) - Aplicación de código abierto que combate el spam telefónico mediante web scraping en tiempo real de bases de datos españolas como listaspam.com y responderono.es. Ofrece bloqueo personalizable y filtr
+- [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) - LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
 - [SchildiChat/schildichat-android-next](https://github.com/SchildiChat/schildichat-android-next) - Matrix client / Element X fork
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
@@ -823,6 +833,7 @@
 
 ## Makefile 
 
+- [TeamWin/android_device_fairphone_FP5](https://github.com/TeamWin/android_device_fairphone_FP5) - TWRP device tree for Fairphone 5
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [cawilliamson/treble_voltage](https://github.com/cawilliamson/treble_voltage) - Patches used to build  VoltageOS as Trebledroid GSI.
 - [TeamWin/android_device_samsung_a15](https://github.com/TeamWin/android_device_samsung_a15) - Samsung Galaxy A15 MediaTek Helio G99 TWRP device tree | bugs : fastbootd
@@ -842,7 +853,7 @@
 ## Nix 
 
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
-- [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager
+- [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## OCaml 
@@ -851,6 +862,7 @@
 
 ## Others 
 
+- [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) - A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [distributopia/fediverse-relays](https://github.com/distributopia/fediverse-relays) - :ocean: Fediverse relays
 - [sleirsgoevy/exynos-kvm-patch](https://github.com/sleirsgoevy/exynos-kvm-patch) - Kernel patch to enable KVM/ARM on Samsung Exynos phones.
@@ -972,8 +984,14 @@
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
+## Processing 
+
+- [eocanha/CatsPanic](https://github.com/eocanha/CatsPanic) - Cat's Panic videogame
+
 ## Python 
 
+- [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [Wakoma/nimble](https://github.com/Wakoma/nimble) - The nimble.  An open source, rapidly deployable, wireless mesh network.
@@ -996,7 +1014,7 @@
 - [linkedin-developers/linkedin-api-python-client](https://github.com/linkedin-developers/linkedin-api-python-client) - Official Python client library for LinkedIn APIs
 - [ZeroDayArcade/capture-pmkid-wpa-wifi-hacking](https://github.com/ZeroDayArcade/capture-pmkid-wpa-wifi-hacking) - A python script for capturing a PMKID from a WiFi router for cracking WPA/WPA2 passwords.
 - [FHPythonUtils/SigStickers](https://github.com/FHPythonUtils/SigStickers) - Download sticker packs from Signal
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
+- [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [bootchk/GimpFu-v3](https://github.com/bootchk/GimpFu-v3) - Port of Gimp plugin API GimpFu to Gimp 3, Python 3
@@ -1258,7 +1276,7 @@
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) - build qemu-static binaries using Alpine Linux docker
 - [pschiffe/docker-pdns](https://github.com/pschiffe/docker-pdns) - Docker images for PowerDNS
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [angel333/certbot-he-hook](https://github.com/angel333/certbot-he-hook) - Certbot (Let's Encrypt) auth hook script for the Hurricane Electric DNS service
 - [roddhjav/progressbar](https://github.com/roddhjav/progressbar) - A pacman like progress bar in bash
 - [sehraf/d1-riscv-arch-image-builder](https://github.com/sehraf/d1-riscv-arch-image-builder) - RISC-V Archlinux D1 LicheeRV image builder
