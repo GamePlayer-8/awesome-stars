@@ -152,7 +152,7 @@
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) - User-mode networking for unprivileged network namespaces
 - [dyne/frei0r](https://github.com/dyne/frei0r) - A large collection of free and portable video plugins
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
@@ -395,7 +395,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [krille-chan/fluffygate](https://github.com/krille-chan/fluffygate) - Dead simple push gateway for Matrix to Firebase Cloud Messaging written in Dart.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -964,7 +964,7 @@
 - [openach/docker-openach](https://github.com/openach/docker-openach) - Docker with OpenACH, running Apache, mod_php, and SQLite
 - [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin) - PostfixAdmin - web based virtual user administration interface for Postfix mail servers
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11/12
 - [SocialConnect/auth](https://github.com/SocialConnect/auth) - :atom: Social (OAuth1\OAuth2\OpenID\OpenIDConnect) sign with PHP :shipit:
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [pandorabox-io/pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox infrastructure code
@@ -1250,7 +1250,6 @@
 - [MuskaNet/OpenGFW-configuration](https://github.com/MuskaNet/OpenGFW-configuration) - Our rules to block some connection.
 - [ponces/treble_aosp](https://github.com/ponces/treble_aosp) - Script and patches for building TrebleDroid AOSP
 - [pitube08642/aircrack-ng-for-termux](https://github.com/pitube08642/aircrack-ng-for-termux) - 
-- [Soli666/VoltageOS-GSI](https://github.com/Soli666/VoltageOS-GSI) - TEST! Script and patches for building PHH-Treble based SparkOS GSI
 - [VR-25/fbind](https://github.com/VR-25/fbind) - A versatile Android mounting utility for folders, EXT4 images, LUKS/LUKS2 encrypted volumes, regular partitions and more.
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [cwt-vf2/u-boot-starfive-vf2](https://github.com/cwt-vf2/u-boot-starfive-vf2) - U-Boot for StarFive RISC-V VisionFive 2 Board
@@ -1372,7 +1371,6 @@
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [transfem-org/TransFish](https://github.com/transfem-org/TransFish) - 
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [blahaj-app/blahaj-app](https://github.com/blahaj-app/blahaj-app) - 
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
