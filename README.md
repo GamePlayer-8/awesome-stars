@@ -282,9 +282,8 @@
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [uwzis/GPU-Passthrough-Manager](https://github.com/uwzis/GPU-Passthrough-Manager) - GPU passthrough made easy.
 - [KDE/okteta](https://github.com/KDE/okteta) - Hex editor for viewing and editing the raw data of files
-- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista & 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
 - [KDE/kalendar](https://github.com/KDE/kalendar) - A calendar application using Akonadi to sync with external services (Nextcloud, GMail, ...)
-- [ROCm/HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
+- [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
 - [KDE/spectacle](https://github.com/KDE/spectacle) - Screenshot capture utility
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
@@ -320,7 +319,7 @@
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [baoboa/pyqt5](https://github.com/baoboa/pyqt5) - PyQt5 from riverbank
 - [OpenVicProject/OpenVic](https://github.com/OpenVicProject/OpenVic) - Main Repo for the OpenVic Project
-- [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
@@ -362,7 +361,7 @@
 ## CSS 
 
 - [bunnywaffle/GIMP-3-Themes](https://github.com/bunnywaffle/GIMP-3-Themes) - Themes for GIMP 3
-- [echelon-theme/echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115 ESR.
+- [echelon-theme/echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115-latest.
 - [EliverLara/Shades-of-purple-gtk](https://github.com/EliverLara/Shades-of-purple-gtk) - 
 - [L4ki/Colorful-Plasma-Themes](https://github.com/L4ki/Colorful-Plasma-Themes) - Colorful Themes For Plasma Desktop
 - [L4ki/Magna-Plasma-Themes](https://github.com/L4ki/Magna-Plasma-Themes) - Magna Themes For Plasma Desktop
@@ -411,7 +410,7 @@
 - [thereapsz/alpine-pxe](https://github.com/thereapsz/alpine-pxe) - a Docker container running a continuous PXE server
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild) - Alpine Linux package builder in Docker
 - [jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
 - [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
@@ -473,6 +472,7 @@
 
 ## Go 
 
+- [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -568,6 +568,7 @@
 
 ## HTML 
 
+- [MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw](https://github.com/MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw) - AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - [sapegin/blank-sky](https://github.com/sapegin/blank-sky) - Beautiful twilight sky inspired new tab page replacement for your browser
 - [vitorsr/cc](https://github.com/vitorsr/cc) - Creative Commons copyright license files
 - [miawinter98/Wave](https://github.com/miawinter98/Wave) - The Collaborative Open Source Blogging Engine
@@ -675,6 +676,7 @@
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
+- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista & 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -908,7 +910,7 @@
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [Hootrix/Chengdu-IT-company-blacklist](https://github.com/Hootrix/Chengdu-IT-company-blacklist) - 成都IT公司黑名单
-- [pietrzakadrian/bank](https://github.com/pietrzakadrian/bank) - 🏦 Full Stack Web Application similar to financial software that is used in banking institutions | React.js and Node.js
+- [pietrzakadrian/bank](https://github.com/pietrzakadrian/bank) - open source web app similar to financial software that is used in banking institutions | React.js and Node.js
 - [codizt/FullStackDev-Roadmap](https://github.com/codizt/FullStackDev-Roadmap) - A complete roadmap for full-stack development.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [denji/nginx-tuning](https://github.com/denji/nginx-tuning) - NGINX tuning for best performance
@@ -990,6 +992,9 @@
 
 ## Python 
 
+- [MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda](https://github.com/MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda) - 
+- [jameshas/Public-DoH-Lists](https://github.com/jameshas/Public-DoH-Lists) - Automatically generated domain and IP blocklists targeting DNS-over-HTTPS (DoH) providers.
+- [akamhy/waybackpy](https://github.com/akamhy/waybackpy) - Wayback Machine API interface & a command-line tool
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
@@ -1324,7 +1329,7 @@
 
 ## Smarty 
 
-- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [SaltwaterC/aircrack-db](https://github.com/SaltwaterC/aircrack-db) - A list of wireless cards tested with the dual-card injection test and in the field
 
 ## Swift 
