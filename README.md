@@ -665,6 +665,8 @@
 
 ## JavaScript 
 
+- [n-riesco/ijavascript](https://github.com/n-riesco/ijavascript) - IJavascript is a javascript kernel for the Jupyter notebook
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [generalbuch/Thunderbird-Tutanota-Addon](https://github.com/generalbuch/Thunderbird-Tutanota-Addon) - An extension for Mozilla Thunderbird to open your Tutanota mail from the toolbar. This is just a modified version of SaltyAimbOtter's ProtonMail Extension here: https://github.com/SaltyAimbOtter/Thund
 - [libremap/libremap-webui](https://github.com/libremap/libremap-webui) - The HTML5 webapp for LibreMap - a scalable, global and decentralized router database and map visualization for community networks, such as guifi, Altermundi, FunkFeuer, ninux, freifunk, Commotion...
 - [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
@@ -1063,7 +1065,7 @@
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing for GIMP 2.8/2.10
 - [mipmip/inkscape-cloud-architect](https://github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [PSPReverse/PSPTool](https://github.com/PSPReverse/PSPTool) - Display, extract, and manipulate PSP firmware inside UEFI images
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
@@ -1275,7 +1277,7 @@
 - [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
 - [LinSoftWin/Photoshop-CC2022-Linux](https://github.com/LinSoftWin/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
+- [nginx/docker-nginx](https://github.com/nginx/docker-nginx) - Official NGINX Dockerfiles
 - [kheeklab/privacyidea-docker](https://github.com/kheeklab/privacyidea-docker) - This is a build environment to build a docker image for privacyIDEA based on official Python image and PrivacyIDEA.
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) - build qemu-static binaries using Alpine Linux docker
