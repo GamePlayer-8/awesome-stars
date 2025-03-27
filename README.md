@@ -101,6 +101,7 @@
 
 ## C 
 
+- [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.
 - [nmav/ipcalc](https://github.com/nmav/ipcalc) - OBSOLETE REPO: Please use gitlab.com/ipcalc/ipcalc
 - [msm8916-mainline/lk2nd](https://github.com/msm8916-mainline/lk2nd) - Custom bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
@@ -178,7 +179,7 @@
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [wbx-github/uclibc-ng](https://github.com/wbx-github/uclibc-ng) - Embedded C Library (mirror)
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [flatpak/xdg-dbus-proxy](https://github.com/flatpak/xdg-dbus-proxy) - 
 - [jech/polipo](https://github.com/jech/polipo) - The Polipo caching HTTP proxy
 - [tomasz-lisowski/swicc](https://github.com/tomasz-lisowski/swicc) - A framework for creating smart cards (ICC-based cards with contacts).
@@ -269,6 +270,7 @@
 
 ## C++ 
 
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [raspberrypi/libcamera](https://github.com/raspberrypi/libcamera) - 
 - [google/android-cuttlefish](https://github.com/google/android-cuttlefish) - Cuttlefish host support debian package.
 - [PentHertz/OpenBTS](https://github.com/PentHertz/OpenBTS) - GSM+GPRS Radio Access Network Node reloaded for 2024-2025 for newest UHD drivers and supporting Ubuntu 22.04 & 24.04
@@ -472,6 +474,8 @@
 
 ## Go 
 
+- [isc-projects/stork](https://github.com/isc-projects/stork) - Stork is a dashboard for BIND 9 and Kea DHCP. It is under active development, with monthly releases. The initial priority is to provide monitoring and troubleshooting support.
+- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -626,7 +630,7 @@
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- [stabu-dev/Omaloon](https://github.com/stabu-dev/Omaloon) - An ambitious Mindustry modification developed by stabu and uujuju. Mod aimed at expanding the game's standard campaign by adding a new star system.
+- [stabu-dev/Omaloon](https://github.com/stabu-dev/Omaloon) - An ambitious Mindustry mod developed by stabu and uujuju.
 - [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 - [Anuken/MindustryMods](https://github.com/Anuken/MindustryMods) - A public auto-generated list of mods used in Mindustry. Updates every 2 hours.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
@@ -665,6 +669,7 @@
 
 ## JavaScript 
 
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [n-riesco/ijavascript](https://github.com/n-riesco/ijavascript) - IJavascript is a javascript kernel for the Jupyter notebook
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [generalbuch/Thunderbird-Tutanota-Addon](https://github.com/generalbuch/Thunderbird-Tutanota-Addon) - An extension for Mozilla Thunderbird to open your Tutanota mail from the toolbar. This is just a modified version of SaltyAimbOtter's ProtonMail Extension here: https://github.com/SaltyAimbOtter/Thund
@@ -866,6 +871,8 @@
 
 ## Others 
 
+- [SecOps-Institute/LinkedInIPLists](https://github.com/SecOps-Institute/LinkedInIPLists) - Hourly Checked and Updated if LinkedIn modifies their list
+- [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) - A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [distributopia/fediverse-relays](https://github.com/distributopia/fediverse-relays) - :ocean: Fediverse relays
@@ -896,7 +903,7 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [konradybcio/Lumia-EDK2-Guide](https://github.com/konradybcio/Lumia-EDK2-Guide) - A guide/reference on how to port EDK II uefi to Spec B unlocked Lumias.
 - [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats) - A whole bunch of pride flags represented as blobby cat emoji
-- [kame404/blender-themes](https://github.com/kame404/blender-themes) - Modern themes for Blender 4.2 Alpha
+- [kame404/blender-themes](https://github.com/kame404/blender-themes) - Modern themes for Blender 4.5 Alpha
 - [IrisShaders/ShaderDoc](https://github.com/IrisShaders/ShaderDoc) - Documentation of Minecraft shaders
 - [libreivan/libreivan](https://github.com/libreivan/libreivan) - Config files for my GitHub profile.
 - [dwyl/learn-codeclimate](https://github.com/dwyl/learn-codeclimate) - :rainbow: Learn how to use CodeClimate to track the quality of your JavaScript/Node.js code.
@@ -994,6 +1001,7 @@
 
 ## Python 
 
+- [hyperkitty/hyperkitty](https://github.com/hyperkitty/hyperkitty) - ===&gt; MOVED TO GITLAB
 - [MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda](https://github.com/MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda) - 
 - [jameshas/Public-DoH-Lists](https://github.com/jameshas/Public-DoH-Lists) - Automatically generated domain and IP blocklists targeting DNS-over-HTTPS (DoH) providers.
 - [akamhy/waybackpy](https://github.com/akamhy/waybackpy) - Wayback Machine API interface & a command-line tool
@@ -1183,6 +1191,7 @@
 
 ## Rust 
 
+- [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust
 - [NLnetLabs/routinator](https://github.com/NLnetLabs/routinator) - An RPKI Validator and RTR server written in Rust
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) - Make every request from a separate IPv6 address.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
@@ -1250,6 +1259,10 @@
 
 ## Shell 
 
+- [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
+- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
+- [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
+- [zilexa/Homeserver](https://github.com/zilexa/Homeserver) - Lightweight home server based on microservices, usable as desktop workstation
 - [nicexlab/EXO](https://github.com/nicexlab/EXO) - 
 - [ianmacd/multidisabler-samsung](https://github.com/ianmacd/multidisabler-samsung) - Disables FBE, proca, Vaultkeeper and auto-reflash of stock recovery on Samsung Pie devices, including S10, N10, A10 - A50 and Tab A 10.1.
 - [winunix/wine-themes](https://github.com/winunix/wine-themes) - Themes for Wine
