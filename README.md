@@ -247,6 +247,7 @@
 
 ## C# # 
 
+- [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
 - [GTVolk/AntiCrasher](https://github.com/GTVolk/AntiCrasher) - AntiCrasher application for restarting application from unexpected crash
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [HaveIBeenPwned/PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
@@ -399,7 +400,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [krille-chan/fluffygate](https://github.com/krille-chan/fluffygate) - Dead simple push gateway for Matrix to Firebase Cloud Messaging written in Dart.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -612,6 +613,7 @@
 
 ## Java 
 
+- [leolewis/openvisualtraceroute](https://github.com/leolewis/openvisualtraceroute) - Open source cross-platform (Windows/Linux/Mac) Java Visual Traceroute, packet sniffer and Whois.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
@@ -737,7 +739,6 @@
 - [hackademix/noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
 - [disconnectme/disconnect](https://github.com/disconnectme/disconnect) - Disconnect is a browser extension that makes the web faster, more private, and more secure.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [xuset/planktos](https://github.com/xuset/planktos) - Serving websites over bittorrent
@@ -968,6 +969,7 @@
 
 ## PHP 
 
+- [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [YGGverse/YGGtracker](https://github.com/YGGverse/YGGtracker) - BitTorrent Network for Yggdrasil
 - [raefon/fogproject-docker](https://github.com/raefon/fogproject-docker) - 
 - [redvex2460/fogproject-alpine-docker](https://github.com/redvex2460/fogproject-alpine-docker) - 
@@ -1406,6 +1408,7 @@
 - [FarmBot/Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App) - Setup, customize, and control FarmBot from any device
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [snuffyDev/yt-hls-rewriter](https://github.com/snuffyDev/yt-hls-rewriter) - 
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
