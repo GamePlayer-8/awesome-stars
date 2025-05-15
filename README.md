@@ -212,7 +212,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [fenugrec/freediag](https://github.com/fenugrec/freediag) - OBD2 scantool
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -273,6 +273,7 @@
 
 ## C++ 
 
+- [marazmista/radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server, with database (MySQL, PostgreSQL), hooks, multi-threading, RADIUS, NETCONF, Kerberos and more.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -344,8 +345,8 @@
 - [oclint/oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [lxqt/screengrab](https://github.com/lxqt/screengrab) - Crossplatform tool for fast making screenshots.
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [lxqt/screengrab](https://github.com/lxqt/screengrab) - Crossplatform tool for creating screenshots.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [perbone/luascript](https://github.com/perbone/luascript) - Lua language support for Godot Engine
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
@@ -495,7 +496,7 @@
 - [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - F-Droid desktop client
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [webhookrelay/webhookrelay-operator](https://github.com/webhookrelay/webhookrelay-operator) - A lightweight tunnelling operator to receive & process webhooks/API requests without public IP or load balancers in your Kubernetes cluster
+- [webhookrelay/webhookrelay-operator](https://github.com/webhookrelay/webhookrelay-operator) - 🛰  A lightweight tunneling operator to receive & process webhooks/API requests without public IP or load balancers in your Kubernetes cluster
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -654,7 +655,7 @@
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡
 - [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
-- [SkinsRestorer/SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorer) - The most popular skin plugin for Minecraft
+- [SkinsRestorer/SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorer) - 🎨 The most popular skin plugin for Minecraft
 - [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google Cloud Platform
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
@@ -709,7 +710,7 @@
 - [your-digital-rights/yourdigitalrights.org](https://github.com/your-digital-rights/yourdigitalrights.org) - Own your data
 - [absturztau-be/tor-dash](https://github.com/absturztau-be/tor-dash) - a web frontend for tor node statistics
 - [mailvelope/keyserver](https://github.com/mailvelope/keyserver) - A simple OpenPGP public key server that validates email address ownership of uploaded keys.
-- [chrultrabook/docs](https://github.com/chrultrabook/docs) - Centralized project documentation for chrultrabook
+- [chrultrabook/docs](https://github.com/chrultrabook/docs) - Project documentation for chrultrabook
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [gabboman/wafrn-backend](https://github.com/gabboman/wafrn-backend) - 
@@ -972,7 +973,7 @@
 
 ## PHP 
 
-- [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
+- [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [YGGverse/YGGtracker](https://github.com/YGGverse/YGGtracker) - BitTorrent Network for Yggdrasil
 - [raefon/fogproject-docker](https://github.com/raefon/fogproject-docker) - 
 - [redvex2460/fogproject-alpine-docker](https://github.com/redvex2460/fogproject-alpine-docker) - 
