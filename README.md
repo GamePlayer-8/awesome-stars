@@ -47,6 +47,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [POV-Ray SDL](#pov-ray-sdl)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
@@ -101,6 +102,10 @@
 
 ## C 
 
+- [utoni/nDPId](https://github.com/utoni/nDPId) - Tiny nDPI based deep packet inspection daemons / toolkit.
+- [fabiodepin/nfq_ndpi_firewall](https://github.com/fabiodepin/nfq_ndpi_firewall) - 
+- [betolj/ndpi-netfilter](https://github.com/betolj/ndpi-netfilter) - 
+- [CZ-NIC/bird](https://github.com/CZ-NIC/bird) - BIRD Internet Routing Daemon
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [EnricoBarbieri1997/frr-bgpsec](https://github.com/EnricoBarbieri1997/frr-bgpsec) - The FRRouting Protocol Suite with BGPSec support
@@ -293,6 +298,7 @@
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [uwzis/GPU-Passthrough-Manager](https://github.com/uwzis/GPU-Passthrough-Manager) - GPU passthrough made easy.
 - [KDE/okteta](https://github.com/KDE/okteta) - Hex editor for viewing and editing the raw data of files
+- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista & 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
 - [KDE/kalendar](https://github.com/KDE/kalendar) - A calendar application using Akonadi to sync with external services (Nextcloud, GMail, ...)
 - [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
@@ -691,16 +697,14 @@
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [generalbuch/Thunderbird-Tutanota-Addon](https://github.com/generalbuch/Thunderbird-Tutanota-Addon) - An extension for Mozilla Thunderbird to open your Tutanota mail from the toolbar. This is just a modified version of SaltyAimbOtter's ProtonMail Extension here: https://github.com/SaltyAimbOtter/Thund
 - [libremap/libremap-webui](https://github.com/libremap/libremap-webui) - The HTML5 webapp for LibreMap - a scalable, global and decentralized router database and map visualization for community networks, such as guifi, Altermundi, FunkFeuer, ninux, freifunk, Commotion...
-- [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [shy1132/gtk2wine](https://github.com/shy1132/gtk2wine) - convert current gtk theme to .reg theme for use with wine
 - [Soushi-Atsumi/Open-in-Sidebar](https://github.com/Soushi-Atsumi/Open-in-Sidebar) - Very simple and useful extension. You can open a link in the sidebar.
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista & 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -723,7 +727,7 @@
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [ncase/wbwwb](https://github.com/ncase/wbwwb) - We Become What We Behold – a minigame about the news!
-- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
 - [ncase/anxiety](https://github.com/ncase/anxiety) - 
 - [AMNatty/Mastodon-Circles](https://github.com/AMNatty/Mastodon-Circles) - Producing a visual representation of Mastodon interactions with JS
@@ -887,6 +891,7 @@
 
 ## Others 
 
+- [ariadata/qbittorrent-warp](https://github.com/ariadata/qbittorrent-warp) - qbittorrent-warp
 - [SecOps-Institute/LinkedInIPLists](https://github.com/SecOps-Institute/LinkedInIPLists) - Hourly Checked and Updated if LinkedIn modifies their list
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) - A sorted list of ActivityPub relays for Mastodon or Pleroma....
@@ -927,7 +932,6 @@
 - [ranma42/TigerOnVBox](https://github.com/ranma42/TigerOnVBox) - HOWTO run Tiger (MacOS X 10.4) on VirtualBox
 - [efidroid/projectmanagement](https://github.com/efidroid/projectmanagement) - EFIDroid Project Management
 - [vibrantleaf/locatarr](https://github.com/vibrantleaf/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
-- [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
 - [DuckOfDisorder/BlobCats](https://github.com/DuckOfDisorder/BlobCats) - A rich repositery of BlobCat emojis, derived from Google's blob emojis
 - [ipverse/rir-ip](https://github.com/ipverse/rir-ip) - Download IP address lists grouped by country
@@ -998,6 +1002,10 @@
 - [pandorabox-io/pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox infrastructure code
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
+## POV-Ray SDL 
+
+- [prizraksarvar/ndpi-netfilter](https://github.com/prizraksarvar/ndpi-netfilter) - 
+
 ## Perl 
 
 - [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
@@ -1018,6 +1026,7 @@
 
 ## Python 
 
+- [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
 - [hyperkitty/hyperkitty](https://github.com/hyperkitty/hyperkitty) - ===&gt; MOVED TO GITLAB
 - [MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda](https://github.com/MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda) - 
 - [jameshas/Public-DoH-Lists](https://github.com/jameshas/Public-DoH-Lists) - Automatically generated domain and IP blocklists targeting DNS-over-HTTPS (DoH) providers.
@@ -1029,6 +1038,7 @@
 - [Wakoma/nimble](https://github.com/Wakoma/nimble) - The nimble.  An open source, rapidly deployable, wireless mesh network.
 - [naftaliharris/tauthon](https://github.com/naftaliharris/tauthon) - Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3.
 - [signag/raspi-cam-srv](https://github.com/signag/raspi-cam-srv) - Web Server for Raspi Camera Access and control of GPIO-devices
+- [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [nitanmarcel/waydroid-magisk](https://github.com/nitanmarcel/waydroid-magisk) - Kitsune Mask (magisk) manager for Waydroid.
 - [user1342/DISintegrity](https://github.com/user1342/DISintegrity) - A tool for analysing Android APKs and extracting root, integrity, and tamper detection checks.
 - [unix3dgforce/lpunpack](https://github.com/unix3dgforce/lpunpack) - command-line tool for extracting partition images from super
@@ -1118,6 +1128,7 @@
 - [cyweb/hammer](https://github.com/cyweb/hammer) - Hammer DDos Script - Python 3
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [fsobolev/cavalier](https://github.com/fsobolev/cavalier) - Audio visualizer based on CAVA. 🎵 Written in Python using LibAdwaita.
+- [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [pypa/get-pip](https://github.com/pypa/get-pip) - Helper scripts to install pip, in a Python installation that doesn't have it.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
@@ -1221,7 +1232,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [g1mv/density](https://github.com/g1mv/density) - Superfast compression library
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [blackdragon2447/riscv_vm](https://github.com/blackdragon2447/riscv_vm) - 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
