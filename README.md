@@ -119,7 +119,7 @@
 - [Project-Silicium/Mu-Silicium](https://github.com/Project-Silicium/Mu-Silicium) - Project Mu Port for ARM-Based Devices
 - [jrlevine/grepcidr3](https://github.com/jrlevine/grepcidr3) - High performance search for IP addresses and CIDR ranges
 - [DIGImend/10moons-tools](https://github.com/DIGImend/10moons-tools) - Tools for enabling and inspecting 10moons tablets
-- [adomerle/edk2-mtk](https://github.com/adomerle/edk2-mtk) - EDK2 for MediaTek SoCs
+- [linux-mediatek/edk2-mtk](https://github.com/linux-mediatek/edk2-mtk) - EDK2 for MediaTek SoCs
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -282,7 +282,7 @@
 - [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) - The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [marazmista/radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
-- [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server, with database (MySQL, PostgreSQL), hooks, multi-threading, RADIUS, NETCONF, Kerberos and more.
+- [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [raspberrypi/libcamera](https://github.com/raspberrypi/libcamera) - 
@@ -491,7 +491,7 @@
 
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [jasongerard/mlockex](https://github.com/jasongerard/mlockex) - Example code for using mlockall, containers, and linux capabilities.
-- [isc-projects/stork](https://github.com/isc-projects/stork) - Stork is a dashboard for BIND 9 and Kea DHCP. It is under active development, with monthly releases. The initial priority is to provide monitoring and troubleshooting support.
+- [isc-projects/stork](https://github.com/isc-projects/stork) - Stork is a dashboard for BIND 9 and Kea DHCP. *** ISC is hiring for a full-stack developer and a QA engineer for Stork. Please apply at https://www.isc.org/careers/
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -657,7 +657,7 @@
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
-- [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+- [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [bottom-software-foundation/bottom-java](https://github.com/bottom-software-foundation/bottom-java) - 🥺
 - [PronounMC/pmc-base](https://github.com/PronounMC/pmc-base) - A Minecraft plugin for sharing pronouns.
 - [Elikill58/Negativity](https://github.com/Elikill58/Negativity) - Github of Negativity, a Minecraft AntiCheat. Premium at 8€:
@@ -809,7 +809,7 @@
 
 ## Kotlin 
 
-- [adamff-dev/spain-spam-call-blocker-app](https://github.com/adamff-dev/spain-spam-call-blocker-app) - Aplicación de código abierto que combate el spam telefónico mediante web scraping en tiempo real de bases de datos españolas como listaspam.com y responderono.es. Ofrece bloqueo personalizable y filtr
+- [adamff-dev/spam-call-blocker-app](https://github.com/adamff-dev/spam-call-blocker-app) - Open-source app that blocks spam calls. Includes customizable filters for hidden, unknown, and international numbers.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) - LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
 - [SchildiChat/schildichat-android-next](https://github.com/SchildiChat/schildichat-android-next) - Matrix client / Element X fork
@@ -1081,7 +1081,7 @@
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [aruhier/virt-backup](https://github.com/aruhier/virt-backup) - Backup your kvm guests managed by libvirt
 - [kescherCode/mastodon-suspension-notifier](https://github.com/kescherCode/mastodon-suspension-notifier) - Notify your users about upcoming suspensions
-- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
+- [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
@@ -1263,7 +1263,7 @@
 - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+- [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
