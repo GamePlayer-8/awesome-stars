@@ -215,7 +215,7 @@
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [xfce-mirror/xfce4-panel](https://github.com/xfce-mirror/xfce4-panel) - Mirror repository, PRs are not watched, please use Xfce's GitLab
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
@@ -289,7 +289,6 @@
 - [google/android-cuttlefish](https://github.com/google/android-cuttlefish) - Cuttlefish host support debian package.
 - [PentHertz/OpenBTS](https://github.com/PentHertz/OpenBTS) - GSM+GPRS Radio Access Network Node reloaded for 2024-2025 for newest UHD drivers and supporting Ubuntu 22.04 & 24.04
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
-- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [zpaq/zpaq](https://github.com/zpaq/zpaq) - ZPAQ's complete code history mirror
 - [KDE/krdp](https://github.com/KDE/krdp) - Library and examples for creating an RDP server.
 - [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser) - Simple cross platform GUI for rclone
@@ -298,7 +297,6 @@
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [uwzis/GPU-Passthrough-Manager](https://github.com/uwzis/GPU-Passthrough-Manager) - GPU passthrough made easy.
 - [KDE/okteta](https://github.com/KDE/okteta) - Hex editor for viewing and editing the raw data of files
-- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista & 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
 - [KDE/kalendar](https://github.com/KDE/kalendar) - A calendar application using Akonadi to sync with external services (Nextcloud, GMail, ...)
 - [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
@@ -338,7 +336,7 @@
 - [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [godotengine/godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
 - [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language
@@ -489,6 +487,9 @@
 
 ## Go 
 
+- [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
+- [carcinoma/compose-updater](https://github.com/carcinoma/compose-updater) - Automatically update your Docker Compose containers.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [jasongerard/mlockex](https://github.com/jasongerard/mlockex) - Example code for using mlockall, containers, and linux capabilities.
 - [isc-projects/stork](https://github.com/isc-projects/stork) - Stork is a dashboard for BIND 9 and Kea DHCP. *** ISC is hiring for a full-stack developer and a QA engineer for Stork. Please apply at https://www.isc.org/careers/
@@ -689,6 +690,7 @@
 
 ## JavaScript 
 
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [enafore/enafore](https://github.com/enafore/enafore) - A fediverse client with better support for Akkoma, glitch-soc, and Iceshrimp instances.
@@ -705,6 +707,7 @@
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
+- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista & 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -1026,6 +1029,7 @@
 
 ## Python 
 
+- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
 - [hyperkitty/hyperkitty](https://github.com/hyperkitty/hyperkitty) - ===&gt; MOVED TO GITLAB
 - [MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda](https://github.com/MicroPanda123/somdumbstuffthatinvolvesevolutionaryalgorithmkinda) - 
