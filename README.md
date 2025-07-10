@@ -236,7 +236,7 @@
 - [galculator/galculator](https://github.com/galculator/galculator) - GTK 2  / GTK 3 based scientific calculator
 - [xfce-mirror/mousepad](https://github.com/xfce-mirror/mousepad) - Mirror repository, PRs are not watched, please use Xfce's GitLab
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
-- [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
+- [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as XWayland.
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -588,6 +588,7 @@
 
 ## HTML 
 
+- [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw](https://github.com/MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw) - AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - [sapegin/blank-sky](https://github.com/sapegin/blank-sky) - Beautiful twilight sky inspired new tab page replacement for your browser
@@ -990,6 +991,7 @@
 
 ## PHP 
 
+- [cyberkathosting/ispconfig3](https://github.com/cyberkathosting/ispconfig3) - 
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [YGGverse/YGGtracker](https://github.com/YGGverse/YGGtracker) - BitTorrent Network for Yggdrasil
 - [raefon/fogproject-docker](https://github.com/raefon/fogproject-docker) - 
@@ -1033,6 +1035,8 @@
 
 ## Python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [bendikro/supervisord-dependent-startup](https://github.com/bendikro/supervisord-dependent-startup) - An event listener for supervisord that does ordered startup
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
