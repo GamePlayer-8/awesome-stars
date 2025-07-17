@@ -372,6 +372,7 @@
 
 ## CSS 
 
+- [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [bunnywaffle/GIMP-3-Themes](https://github.com/bunnywaffle/GIMP-3-Themes) - Themes for GIMP 3
 - [echelon-theme/echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115-latest.
 - [EliverLara/Shades-of-purple-gtk](https://github.com/EliverLara/Shades-of-purple-gtk) - 
@@ -690,6 +691,7 @@
 
 ## JavaScript 
 
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [eithan1231/minio-object-browser](https://github.com/eithan1231/minio-object-browser) - uncooked minio object browser
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -822,7 +824,7 @@
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [SchildiChat/schildichat-android-next](https://github.com/SchildiChat/schildichat-android-next) - Matrix client / Element X fork
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
-- [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
@@ -899,6 +901,8 @@
 
 ## Others 
 
+- [msys2/msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
+- [blanckth/qemuTermux](https://github.com/blanckth/qemuTermux) - Use QEMU in Termux as a full virtual machine and Deploy Any OS and iso
 - [ariadata/qbittorrent-warp](https://github.com/ariadata/qbittorrent-warp) - qbittorrent-warp
 - [SecOps-Institute/LinkedInIPLists](https://github.com/SecOps-Institute/LinkedInIPLists) - Hourly Checked and Updated if LinkedIn modifies their list
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
