@@ -323,7 +323,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
 - [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to t
-- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
+- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to generate licence keys for MS products circa 1998 - 2006
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [maxmati/a4tech-bloody-linux-driver](https://github.com/maxmati/a4tech-bloody-linux-driver) - 
@@ -833,7 +833,6 @@
 - [CypherpunkArmory/Inkscape](https://github.com/CypherpunkArmory/Inkscape) - UserLAnd Inkscape
 - [captainepoch/husky](https://github.com/captainepoch/husky) - The most famous Pleroma client for Android.
 - [apognu/otter](https://github.com/apognu/otter) - Music player for Funkwhale
-- [jamal2362/Styx](https://github.com/jamal2362/Styx) - A very fast, minimalist browser!
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
