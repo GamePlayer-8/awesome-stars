@@ -996,7 +996,7 @@
 
 - [cyberkathosting/ispconfig3](https://github.com/cyberkathosting/ispconfig3) - 
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
-- [YGGverse/YGGtracker](https://github.com/YGGverse/YGGtracker) - BitTorrent Network for Yggdrasil
+- [YGGverse/YGGtracker](https://github.com/YGGverse/YGGtracker) - A social-oriented BitTorrent catalog for the Yggdrasil network, written in the Symfony framework.
 - [raefon/fogproject-docker](https://github.com/raefon/fogproject-docker) - 
 - [redvex2460/fogproject-alpine-docker](https://github.com/redvex2460/fogproject-alpine-docker) - 
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
@@ -1038,6 +1038,7 @@
 
 ## Python 
 
+- [HuJK/DN42-AutoPeer](https://github.com/HuJK/DN42-AutoPeer) - DN42 Automatic Peer System
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [bendikro/supervisord-dependent-startup](https://github.com/bendikro/supervisord-dependent-startup) - An event listener for supervisord that does ordered startup
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1238,6 +1239,7 @@
 
 ## Rust 
 
+- [Kioubit/dn42_registry_wizard](https://github.com/Kioubit/dn42_registry_wizard) - A collection of tools to interact with DN42 registry data
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust
