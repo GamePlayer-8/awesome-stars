@@ -424,7 +424,6 @@
 - [Speedy37/docker-libvirtd](https://github.com/Speedy37/docker-libvirtd) - Alpine Linux libvirt (qemu+kvm) docker image
 - [thereapsz/alpine-pxe](https://github.com/thereapsz/alpine-pxe) - a Docker container running a continuous PXE server
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
-- [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild) - Alpine Linux package builder in Docker
 - [jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
@@ -1239,6 +1238,7 @@
 
 ## Rust 
 
+- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror] A community-driven Matrix chat server, forked from conduwuit
 - [Kioubit/dn42_registry_wizard](https://github.com/Kioubit/dn42_registry_wizard) - A collection of tools to interact with DN42 registry data
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
@@ -1330,6 +1330,7 @@
 - [cwt-vf2/archlinux-image-vf2](https://github.com/cwt-vf2/archlinux-image-vf2) - Build script to create Arch Linux image for VisionFive 2
 - [inindev/visionfive2](https://github.com/inindev/visionfive2) - stock debian riscv64 linux for the starfive visionfive v2
 - [rabilrbl/ChromeOS](https://github.com/rabilrbl/ChromeOS) - ChromeOS with Google Play Store support for Android apps on amd64 device.
+- [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [aenix-io/kubefarm](https://github.com/aenix-io/kubefarm) - Automated Kubernetes deployment and the PXE-bootable servers farm
