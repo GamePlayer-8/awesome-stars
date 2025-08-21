@@ -97,6 +97,7 @@
 
 ## C 
 
+- [telmich/gpm](https://github.com/telmich/gpm) - general purpose mouse
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [utoni/nDPId](https://github.com/utoni/nDPId) - Tiny nDPI based deep packet inspection daemons / toolkit.
 - [fabiodepin/nfq_ndpi_firewall](https://github.com/fabiodepin/nfq_ndpi_firewall) - 
@@ -612,6 +613,7 @@
 - [adamharrison/lite-xl-web](https://github.com/adamharrison/lite-xl-web) - 
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [wimagguc/jquery-eu-cookie-law-popup](https://github.com/wimagguc/jquery-eu-cookie-law-popup) - An easy-to-install jQuery plugin to create EU Cookie Law popups
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [Greybeard-Entertainment/Greybeard-Entertainment.github.io](https://github.com/Greybeard-Entertainment/Greybeard-Entertainment.github.io) - Rendered Greybeard Entertainment articles
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -690,6 +692,7 @@
 
 ## JavaScript 
 
+- [NyarchLinux/NyarchLinux](https://github.com/NyarchLinux/NyarchLinux) - Nyarch Linux is a Linux distribution made for weebs, based on ArchLinux and EzArcher.
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [eithan1231/minio-object-browser](https://github.com/eithan1231/minio-object-browser) - uncooked minio object browser
@@ -760,6 +763,7 @@
 - [hackademix/noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
 - [disconnectme/disconnect](https://github.com/disconnectme/disconnect) - Disconnect is a browser extension that makes the web faster, more private, and more secure.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [xuset/planktos](https://github.com/xuset/planktos) - Serving websites over bittorrent
@@ -902,7 +906,7 @@
 - [msys2/msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [blanckth/qemuTermux](https://github.com/blanckth/qemuTermux) - Use QEMU in Termux as a full virtual machine and Deploy Any OS and iso
 - [ariadata/qbittorrent-warp](https://github.com/ariadata/qbittorrent-warp) - qbittorrent-warp
-- [SecOps-Institute/LinkedInIPLists](https://github.com/SecOps-Institute/LinkedInIPLists) - Hourly Checked and Updated if LinkedIn modifies their list
+- [platformbuilds/LinkedInIPLists](https://github.com/platformbuilds/LinkedInIPLists) - Hourly Checked and Updated if LinkedIn modifies their list
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) - A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -1288,7 +1292,6 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
@@ -1356,6 +1359,7 @@
 - [alpinelinux/alpine-make-vm-image](https://github.com/alpinelinux/alpine-make-vm-image) - Make customized Alpine Linux disk image for virtual machines
 - [golfayi/Convert-qcow2-image-to-docker-image](https://github.com/golfayi/Convert-qcow2-image-to-docker-image) - In Cloud, we need docker image to do compile and virtual manage. It can help us to convert qcow2 image to docker image conveniently.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [sgerrand/alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [scottyhardy/docker-wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
 - [chrultrabook/stoney-kernel](https://github.com/chrultrabook/stoney-kernel) - Script to build the weird kernel needed on stoneyridge chromebooks
@@ -1434,7 +1438,6 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
@@ -1453,7 +1456,6 @@
 - [FarmBot/Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App) - Setup, customize, and control FarmBot from any device
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [snuffyDev/yt-hls-rewriter](https://github.com/snuffyDev/yt-hls-rewriter) - 
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
