@@ -97,6 +97,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [telmich/gpm](https://github.com/telmich/gpm) - general purpose mouse
@@ -278,6 +279,8 @@
 
 ## C++ 
 
+- [Kayxue/VSCodeExtensionDownloader](https://github.com/Kayxue/VSCodeExtensionDownloader) - An app which can help you easily download VSCode extension from Visual Studio Marketplace
+- [TeamWin/android_device_xiaomi_tapas](https://github.com/TeamWin/android_device_xiaomi_tapas) - Redmi Note 12 4G (tapas / topaz) - OrangeFox, PBRP, SHRP and TWRP device-tree maintained by AspectPower.
 - [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
 - [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) - The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -572,7 +575,6 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -630,6 +632,7 @@
 
 ## Java 
 
+- [Max-RM/HMCL_offline](https://github.com/Max-RM/HMCL_offline) - The same HCML but with allowed offline accounts by default
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [apache/ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
 - [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
@@ -694,6 +697,7 @@
 
 ## JavaScript 
 
+- [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -716,7 +720,6 @@
 - [Soushi-Atsumi/Open-in-Sidebar](https://github.com/Soushi-Atsumi/Open-in-Sidebar) - Very simple and useful extension. You can open a link in the sidebar.
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
-- [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [eyeos/spice-web-client](https://github.com/eyeos/spice-web-client) - A full featured and high performance SPICE web client written in Javascript and HTML5
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [Eclipse-Community/r3dfox-old](https://github.com/Eclipse-Community/r3dfox-old) - This is the old repo because Mozilla sux and migrated Firefox to another repo for no reason. Check out https://github.com/Eclipse-Community/r3dfox for the new repo.
@@ -979,7 +982,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [NebuTech/NBMiner](https://github.com/NebuTech/NBMiner) - GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 - [jslee02/awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) - :sunglasses: A curated list of awesome collision detection libraries and resources
@@ -1045,6 +1048,7 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [HuJK/DN42-AutoPeer](https://github.com/HuJK/DN42-AutoPeer) - DN42 Automatic Peer System
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1424,11 +1428,13 @@
 
 ## TypeScript 
 
+- [doki-theme/doki-theme-vscode](https://github.com/doki-theme/doki-theme-vscode) - Cute anime character themes for VS-Code.
 - [ShufflePerson/Discord_CDN](https://github.com/ShufflePerson/Discord_CDN) - Bypasses the new Discord Expiry time on download links.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [kathrindc/freeotp-dump](https://github.com/kathrindc/freeotp-dump) - Export all your FreeOTP tokens easily
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [hensm/mullvad-proxy](https://github.com/hensm/mullvad-proxy) - A browser extension for Mullvad SOCKS5 proxies.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
@@ -1480,6 +1486,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1523,6 +1530,7 @@
 
 ## Vue 
 
+- [pysio2007/AnyCast-WebSite](https://github.com/pysio2007/AnyCast-WebSite) - 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [NanaMorse/Cuckoo.Plus](https://github.com/NanaMorse/Cuckoo.Plus) - A GooglePlus-Like third-party web client for mastodon.
 
