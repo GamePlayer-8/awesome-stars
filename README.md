@@ -279,6 +279,7 @@
 
 ## C++ 
 
+- [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [Kayxue/VSCodeExtensionDownloader](https://github.com/Kayxue/VSCodeExtensionDownloader) - An app which can help you easily download VSCode extension from Visual Studio Marketplace
 - [TeamWin/android_device_xiaomi_tapas](https://github.com/TeamWin/android_device_xiaomi_tapas) - Redmi Note 12 4G (tapas / topaz) - OrangeFox, PBRP, SHRP and TWRP device-tree maintained by AspectPower.
 - [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
@@ -329,7 +330,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
 - [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to t
-- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to generate licence keys for MS products circa 1998 - 2006
+- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to research Microsoft Pre-Vista license key mechanisms
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [maxmati/a4tech-bloody-linux-driver](https://github.com/maxmati/a4tech-bloody-linux-driver) - 
@@ -492,6 +493,7 @@
 
 ## Go 
 
+- [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [carcinoma/compose-updater](https://github.com/carcinoma/compose-updater) - Automatically update your Docker Compose containers.
@@ -512,6 +514,7 @@
 - [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [webhookrelay/webhookrelay-operator](https://github.com/webhookrelay/webhookrelay-operator) - 🛰  A lightweight tunneling operator to receive & process webhooks/API requests without public IP or load balancers in your Kubernetes cluster
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -559,7 +562,7 @@
 - [moul/gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
 - [axllent/web-validator](https://github.com/axllent/web-validator) - Validate website HTML & CSS, check links & resources
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -697,6 +700,7 @@
 
 ## JavaScript 
 
+- [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon's toot conversation in a HTML page
 - [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -845,7 +849,6 @@
 - [apognu/otter](https://github.com/apognu/otter) - Music player for Funkwhale
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
@@ -947,7 +950,7 @@
 - [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats) - A whole bunch of pride flags represented as blobby cat emoji
 - [kame404/blender-themes](https://github.com/kame404/blender-themes) - Modern themes for Blender 4.5 Alpha
 - [IrisShaders/ShaderDoc](https://github.com/IrisShaders/ShaderDoc) - Documentation of Minecraft shaders
-- [libreivan/libreivan](https://github.com/libreivan/libreivan) - Config files for my GitHub profile.
+- [ivanmirakov/libreivan](https://github.com/ivanmirakov/libreivan) - Config files for my GitHub profile.
 - [dwyl/learn-codeclimate](https://github.com/dwyl/learn-codeclimate) - :rainbow: Learn how to use CodeClimate to track the quality of your JavaScript/Node.js code.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [ranma42/TigerOnVBox](https://github.com/ranma42/TigerOnVBox) - HOWTO run Tiger (MacOS X 10.4) on VirtualBox
@@ -1048,6 +1051,8 @@
 
 ## Python 
 
+- [polhenarejos/pico-openpgp](https://github.com/polhenarejos/pico-openpgp) - OpenPGP CCID smart card for Raspberry Pico and ESP32
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [HuJK/DN42-AutoPeer](https://github.com/HuJK/DN42-AutoPeer) - DN42 Automatic Peer System
@@ -1085,7 +1090,6 @@
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
 - [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface mini-KVM
 - [eracle/linkedin](https://github.com/eracle/linkedin) - Linkedin Scraper using Selenium Web Driver, Chromium headless, Docker and Scrapy
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [linkedin-developers/linkedin-api-python-client](https://github.com/linkedin-developers/linkedin-api-python-client) - Official Python client library for LinkedIn APIs
 - [ZeroDayArcade/capture-pmkid-wpa-wifi-hacking](https://github.com/ZeroDayArcade/capture-pmkid-wpa-wifi-hacking) - A python script for capturing a PMKID from a WiFi router for cracking WPA/WPA2 passwords.
 - [FHPythonUtils/SigStickers](https://github.com/FHPythonUtils/SigStickers) - Download sticker packs from Signal
@@ -1282,6 +1286,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -1345,6 +1350,7 @@
 - [inindev/visionfive2](https://github.com/inindev/visionfive2) - stock debian riscv64 linux for the starfive visionfive v2
 - [rabilrbl/ChromeOS](https://github.com/rabilrbl/ChromeOS) - ChromeOS with Google Play Store support for Android apps on amd64 device.
 - [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [aenix-io/kubefarm](https://github.com/aenix-io/kubefarm) - Automated Kubernetes deployment and the PXE-bootable servers farm
@@ -1413,7 +1419,6 @@
 
 ## Smarty 
 
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [SaltwaterC/aircrack-db](https://github.com/SaltwaterC/aircrack-db) - A list of wireless cards tested with the dual-card injection test and in the field
 
 ## Swift 
