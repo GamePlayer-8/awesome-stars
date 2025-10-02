@@ -279,6 +279,7 @@
 
 ## C++ 
 
+- [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - Very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [Kayxue/VSCodeExtensionDownloader](https://github.com/Kayxue/VSCodeExtensionDownloader) - An app which can help you easily download VSCode extension from Visual Studio Marketplace
 - [TeamWin/android_device_xiaomi_tapas](https://github.com/TeamWin/android_device_xiaomi_tapas) - Redmi Note 12 4G (tapas / topaz) - OrangeFox, PBRP, SHRP and TWRP device-tree maintained by AspectPower.
@@ -286,7 +287,7 @@
 - [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) - The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [marazmista/radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
-- [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
+- [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [raspberrypi/libcamera](https://github.com/raspberrypi/libcamera) - 
@@ -499,7 +500,7 @@
 - [carcinoma/compose-updater](https://github.com/carcinoma/compose-updater) - Automatically update your Docker Compose containers.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [jasongerard/mlockex](https://github.com/jasongerard/mlockex) - Example code for using mlockall, containers, and linux capabilities.
-- [isc-projects/stork](https://github.com/isc-projects/stork) - Stork is a dashboard for BIND 9 and Kea DHCP. *** ISC is hiring for a full-stack developer and a QA engineer for Stork. Please apply at https://www.isc.org/careers/
+- [isc-projects/stork](https://github.com/isc-projects/stork) - Stork is a dashboard for BIND 9 and Kea DHCP.
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -598,6 +599,7 @@
 
 - [redbean0721/LightPage](https://github.com/redbean0721/LightPage) - 一個簡單的個人網頁
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw](https://github.com/MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw) - AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - [sapegin/blank-sky](https://github.com/sapegin/blank-sky) - Beautiful twilight sky inspired new tab page replacement for your browser
@@ -649,7 +651,6 @@
 - [apache/guacamole-client](https://github.com/apache/guacamole-client) - Mirror of Apache Guacamole Client
 - [alexbakker/Aegis](https://github.com/alexbakker/Aegis) - A secure OTP app for Android
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [sryze/wirebug](https://github.com/sryze/wirebug) - Toggle Wi-Fi debugging on Android without a USB cable (needs root)
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
@@ -711,7 +712,6 @@
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [jamesagarside/openmaxio-object-browser](https://github.com/jamesagarside/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [enafore/enafore](https://github.com/enafore/enafore) - A fediverse client with better support for Akkoma, glitch-soc, and Iceshrimp instances.
@@ -837,6 +837,7 @@
 - [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) - LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
 - [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [SchildiChat/schildichat-android-next](https://github.com/SchildiChat/schildichat-android-next) - Matrix client / Element X fork
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
@@ -913,6 +914,7 @@
 
 ## Others 
 
+- [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
 - [msys2/msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [blanckth/qemuTermux](https://github.com/blanckth/qemuTermux) - Use QEMU in Termux as a full virtual machine and Deploy Any OS and iso
 - [ariadata/qbittorrent-warp](https://github.com/ariadata/qbittorrent-warp) - qbittorrent-warp
@@ -1397,7 +1399,7 @@
 - [LinSoftWin/Illustrator-CC-2021-Linux](https://github.com/LinSoftWin/Illustrator-CC-2021-Linux) - A script that install Illustrator 2021 on Linux
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
-- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
+- [qt/qt5](https://github.com/qt/qt5) - Qt super module
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [trick77/ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
 - [JavanXD/ya-pihole-list](https://github.com/JavanXD/ya-pihole-list) - A bunch of useful pi-hole adlists and a auto updater.
