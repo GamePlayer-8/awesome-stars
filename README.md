@@ -344,7 +344,7 @@
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [godotengine/godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
-- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language
+- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, PCB, and language
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [adamharrison/write-xl](https://github.com/adamharrison/write-xl) - A set of plugins for Lite XL that make the editor appropriate for creative writing.
@@ -671,7 +671,7 @@
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [bottom-software-foundation/bottom-java](https://github.com/bottom-software-foundation/bottom-java) - 🥺
-- [PronounMC/pmc-base](https://github.com/PronounMC/pmc-base) - A Minecraft plugin for sharing pronouns.
+- [PronounMC/old-pmc-base](https://github.com/PronounMC/old-pmc-base) - A Minecraft plugin for sharing pronouns.
 - [Elikill58/Negativity](https://github.com/Elikill58/Negativity) - Github of Negativity, a Minecraft AntiCheat. Premium at 8€:
 - [MrMicky-FR/FastInv](https://github.com/MrMicky-FR/FastInv) - Lightweight and easy-to-use inventory API for Bukkit plugins.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
@@ -1140,7 +1140,7 @@
 - [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing for GIMP 2.8/2.10
 - [mipmip/inkscape-cloud-architect](https://github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [PSPReverse/PSPTool](https://github.com/PSPReverse/PSPTool) - Display, extract, and manipulate PSP firmware inside UEFI images
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
@@ -1399,7 +1399,7 @@
 - [LinSoftWin/Illustrator-CC-2021-Linux](https://github.com/LinSoftWin/Illustrator-CC-2021-Linux) - A script that install Illustrator 2021 on Linux
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
-- [qt/qt5](https://github.com/qt/qt5) - Qt super module
+- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [trick77/ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
 - [JavanXD/ya-pihole-list](https://github.com/JavanXD/ya-pihole-list) - A bunch of useful pi-hole adlists and a auto updater.
