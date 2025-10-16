@@ -97,6 +97,7 @@
 
 ## C 
 
+- [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
@@ -331,7 +332,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
 - [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to t
-- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to research Microsoft Pre-Vista license key mechanisms
+- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to research Microsoft Pre-Vista licensing mechanisms
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [maxmati/a4tech-bloody-linux-driver](https://github.com/maxmati/a4tech-bloody-linux-driver) - 
@@ -583,6 +584,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -599,7 +601,6 @@
 
 - [redbean0721/LightPage](https://github.com/redbean0721/LightPage) - 一個簡單的個人網頁
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw](https://github.com/MicroPanda123/FSTROASNFIUJEAUhfpwoubnuhoefhugipfehewdhuigyuhedasfGHYUewgyuiowefGYUIOFWEyuigholwaerftuyhoglw) - AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - [sapegin/blank-sky](https://github.com/sapegin/blank-sky) - Beautiful twilight sky inspired new tab page replacement for your browser
@@ -712,6 +713,7 @@
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [jamesagarside/openmaxio-object-browser](https://github.com/jamesagarside/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [enafore/enafore](https://github.com/enafore/enafore) - A fediverse client with better support for Akkoma, glitch-soc, and Iceshrimp instances.
@@ -1205,7 +1207,6 @@
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
@@ -1235,7 +1236,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [andredla/win_audio](https://github.com/andredla/win_audio) - 
 
 ## Ruby 
@@ -1290,7 +1291,7 @@
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust
+- [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl) - OpenSSL bindings for Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
