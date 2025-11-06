@@ -740,7 +740,6 @@
 - [no-body-in-particular/NoVNCAudio](https://github.com/no-body-in-particular/NoVNCAudio) - NoVNC with audio
 - [MarmadileManteater/FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) - A soft fork of FreeTube which brings it to Android (formerly FreeTubeCordova)
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [your-digital-rights/yourdigitalrights.org](https://github.com/your-digital-rights/yourdigitalrights.org) - Own your data
 - [absturztau-be/tor-dash](https://github.com/absturztau-be/tor-dash) - a web frontend for tor node statistics
 - [mailvelope/keyserver](https://github.com/mailvelope/keyserver) - A simple OpenPGP public key server that validates email address ownership of uploaded keys.
@@ -1093,7 +1092,7 @@
 - [fusepy/fusepy](https://github.com/fusepy/fusepy) - Simple ctypes bindings for FUSE
 - [denismo/DynamoFS](https://github.com/denismo/DynamoFS) - Linux FUSE file system implementation with AWS DynamoDB as the storage
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
-- [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface mini-KVM
+- [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface KVM solution
 - [eracle/linkedin](https://github.com/eracle/linkedin) - Linkedin Scraper using Selenium Web Driver, Chromium headless, Docker and Scrapy
 - [linkedin-developers/linkedin-api-python-client](https://github.com/linkedin-developers/linkedin-api-python-client) - Official Python client library for LinkedIn APIs
 - [ZeroDayArcade/capture-pmkid-wpa-wifi-hacking](https://github.com/ZeroDayArcade/capture-pmkid-wpa-wifi-hacking) - A python script for capturing a PMKID from a WiFi router for cracking WPA/WPA2 passwords.
@@ -1394,7 +1393,7 @@
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [docker-library/golang](https://github.com/docker-library/golang) - Docker Official Image packaging for golang
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [kicsikrumpli/wine-pyinstaller](https://github.com/kicsikrumpli/wine-pyinstaller) - Compile Python 3.x scripts with Pyinstaller into 32 bit Windows executables on Ubuntu with Wine
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
@@ -1441,6 +1440,8 @@
 
 ## TypeScript 
 
+- [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
+- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines
 - [doki-theme/doki-theme-vscode](https://github.com/doki-theme/doki-theme-vscode) - Cute anime character themes for VS-Code.
@@ -1462,6 +1463,7 @@
 - [openshift/console](https://github.com/openshift/console) - OpenShift Cluster Console UI
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [NotTobi/soundcloud-dl](https://github.com/NotTobi/soundcloud-dl) - Extension for downloading SoundCloud tracks
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
