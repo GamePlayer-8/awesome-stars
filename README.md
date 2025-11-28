@@ -83,7 +83,6 @@
 
 ## Assembly 
 
-- [martinKindall/compile-for-risc-v-gnu](https://github.com/martinKindall/compile-for-risc-v-gnu) - Examples for compiling code using the RISC-V gnu toolchain
 - [kavyanshgangwar/os](https://github.com/kavyanshgangwar/os) - A basic os to learn the concepts behind Operating Systems.
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 
@@ -97,6 +96,7 @@
 
 ## C 
 
+- [cornet/ccze](https://github.com/cornet/ccze) - ccze
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
@@ -158,6 +158,7 @@
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 - [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
+- [martinKindall/compile-for-risc-v-gnu](https://github.com/martinKindall/compile-for-risc-v-gnu) - Examples for compiling code using the RISC-V gnu toolchain
 - [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) - User-mode networking for unprivileged network namespaces
@@ -254,6 +255,7 @@
 
 ## C# # 
 
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
 - [GTVolk/AntiCrasher](https://github.com/GTVolk/AntiCrasher) - AntiCrasher application for restarting application from unexpected crash
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
@@ -396,7 +398,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## CoffeeScript 
@@ -495,6 +497,10 @@
 
 ## Go 
 
+- [AYehia0/soundcloud-dl](https://github.com/AYehia0/soundcloud-dl) - A small CLI tool to download SoundCloud tracks and playlists, written in Go lang.
+- [allfro/device-mapping-manager](https://github.com/allfro/device-mapping-manager) - 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
@@ -508,7 +514,7 @@
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [bepass-org/warp-plus](https://github.com/bepass-org/warp-plus) - Warp+Psiphon, an anti censorship utility for iran
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [zhoreeq/meshname](https://github.com/zhoreeq/meshname) - Meshname, a universal naming system for all IPv6-based mesh networks, including CJDNS and Yggdrasil
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
@@ -701,6 +707,7 @@
 
 ## JavaScript 
 
+- [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
 - [dgudim/themes](https://github.com/dgudim/themes) - A collections of various themes made by me/taken from other people and tweaked
 - [cutelyst/Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt
 - [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon's toot conversation in a HTML page
@@ -810,7 +817,6 @@
 - [Mega-Mewthree/BetterDiscordPlugins](https://github.com/Mega-Mewthree/BetterDiscordPlugins) - Plugins and Libraries for BetterDiscord
 - [SpoonMcForky/replace-timestamps-pc](https://github.com/SpoonMcForky/replace-timestamps-pc) - Powercord plugin to replace plaintext timestamps with Discord's timestamps.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
@@ -834,6 +840,8 @@
 
 ## Kotlin 
 
+- [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [adamff-dev/spam-call-blocker-app](https://github.com/adamff-dev/spam-call-blocker-app) - Open-source app that blocks spam calls. Includes customizable filters for hidden, unknown, and international numbers.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) - LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
@@ -916,6 +924,7 @@
 
 ## Others 
 
+- [MrChromebox/firmware](https://github.com/MrChromebox/firmware) - Issue tracker for firmware issues
 - [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
 - [msys2/msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [blanckth/qemuTermux](https://github.com/blanckth/qemuTermux) - Use QEMU in Termux as a full virtual machine and Deploy Any OS and iso
@@ -952,7 +961,7 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [konradybcio/Lumia-EDK2-Guide](https://github.com/konradybcio/Lumia-EDK2-Guide) - A guide/reference on how to port EDK II uefi to Spec B unlocked Lumias.
 - [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats) - A whole bunch of pride flags represented as blobby cat emoji
-- [kame404/blender-themes](https://github.com/kame404/blender-themes) - Modern themes for Blender 4.5 Alpha
+- [kame404/blender-themes](https://github.com/kame404/blender-themes) - Modern themes for Blender 5.1 Alpha
 - [IrisShaders/ShaderDoc](https://github.com/IrisShaders/ShaderDoc) - Documentation of Minecraft shaders
 - [ivanmirakov/libreivan](https://github.com/ivanmirakov/libreivan) - Config files for my GitHub profile.
 - [dwyl/learn-codeclimate](https://github.com/dwyl/learn-codeclimate) - :rainbow: Learn how to use CodeClimate to track the quality of your JavaScript/Node.js code.
@@ -1260,7 +1269,8 @@
 
 ## Rust 
 
-- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror] A community-driven Matrix chat server, forked from conduwuit
+- [HelixLauncher/HelixLauncher](https://github.com/HelixLauncher/HelixLauncher) - A Minecraft launcher built on Rust
+- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
 - [Kioubit/dn42_registry_wizard](https://github.com/Kioubit/dn42_registry_wizard) - A collection of tools to interact with DN42 registry data
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
@@ -1333,6 +1343,7 @@
 
 ## Shell 
 
+- [GrapeApple0/ipench](https://github.com/GrapeApple0/ipench) - Yet Another Network Benchmark Script
 - [darac/plymouth-bgrt](https://github.com/darac/plymouth-bgrt) - Plymouth theme using your BGRT (UEFI logo)
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [yeyushengfan258/Lyra-Cursors](https://github.com/yeyushengfan258/Lyra-Cursors) - Lyra Cursors for linux desktops
@@ -1409,7 +1420,7 @@
 - [trick77/ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
 - [JavanXD/ya-pihole-list](https://github.com/JavanXD/ya-pihole-list) - A bunch of useful pi-hole adlists and a auto updater.
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [kvaps/fake-systemd](https://github.com/kvaps/fake-systemd) - 
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
@@ -1440,6 +1451,8 @@
 
 ## TypeScript 
 
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
+- [GrapeApple0/misskey](https://github.com/GrapeApple0/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
@@ -1550,6 +1563,7 @@
 - [pysio2007/AnyCast-WebSite](https://github.com/pysio2007/AnyCast-WebSite) - 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [NanaMorse/Cuckoo.Plus](https://github.com/NanaMorse/Cuckoo.Plus) - A GooglePlus-Like third-party web client for mastodon.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 
 ## Zig 
 
