@@ -29,6 +29,7 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Hosts File](#hosts-file)
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -96,6 +97,9 @@
 
 ## C 
 
+- [bminor/glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository. Updated daily.
+- [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [cornet/ccze](https://github.com/cornet/ccze) - ccze
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -256,7 +260,7 @@
 ## C# # 
 
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
-- [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+- [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Network Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
 - [GTVolk/AntiCrasher](https://github.com/GTVolk/AntiCrasher) - AntiCrasher application for restarting application from unexpected crash
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [HaveIBeenPwned/PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
@@ -431,6 +435,7 @@
 
 ## Dockerfile 
 
+- [icoretech/pgbouncer-docker](https://github.com/icoretech/pgbouncer-docker) - Multi-arch PgBouncer 🐳 Docker image built from official upstream releases (amd64/arm64)
 - [Speedy37/docker-libvirtd](https://github.com/Speedy37/docker-libvirtd) - Alpine Linux libvirt (qemu+kvm) docker image
 - [thereapsz/alpine-pxe](https://github.com/thereapsz/alpine-pxe) - a Docker container running a continuous PXE server
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
@@ -478,7 +483,7 @@
 - [nezvers/Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template for top-down shooter, with solutions for tough problems.
 - [bitwes/Gut](https://github.com/bitwes/Gut) - Godot Unit Test.  Unit testing tool for Godot Game Engine.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
-- [watplugin/wat](https://github.com/watplugin/wat) - A Testing Plugin for Godot Game Engine
+- [AlexDarigan/wat](https://github.com/AlexDarigan/wat) - A Testing Plugin for Godot Game Engine
 - [rohitanwar/Snake](https://github.com/rohitanwar/Snake) - Basic snake game in godot
 - [Gonkee/Gonkees-Shaders](https://github.com/Gonkee/Gonkees-Shaders) - Gonkee's shaders - I'd prefer if you gave credit if you use these shaders. My channel: https://www.youtube.com/c/Gonkee
 - [godot-addons/godot-behavior-tree-plugin](https://github.com/godot-addons/godot-behavior-tree-plugin) - Behavior Tree implementation for the Godot Engine as an addon in pure GDScript
@@ -496,6 +501,12 @@
 
 ## Go 
 
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+- [woodpecker-ci/plugin-git](https://github.com/woodpecker-ci/plugin-git) - Woodpecker plugin for cloning Git repositories
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+- [q3k/crowbar](https://github.com/q3k/crowbar) - Migrated to Codeberg
+- [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko) - Build Container Images In Kubernetes
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [AYehia0/soundcloud-dl](https://github.com/AYehia0/soundcloud-dl) - A small CLI tool to download SoundCloud tracks and playlists, written in Go lang.
 - [allfro/device-mapping-manager](https://github.com/allfro/device-mapping-manager) - 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -569,7 +580,7 @@
 - [moul/gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
 - [axllent/web-validator](https://github.com/axllent/web-validator) - Validate website HTML & CSS, check links & resources
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays
+- [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays - Actively maintained since 2011.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
@@ -638,12 +649,18 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## Hosts File 
+
+- [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
+
 ## JSON 
 
 - [adamus1red/ActivityPub-Relays](https://github.com/adamus1red/ActivityPub-Relays) - 📈 Uptime monitor and status page for Upptime, powered by @upptime
 
 ## Java 
 
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
+- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [Max-RM/HMCL_offline](https://github.com/Max-RM/HMCL_offline) - The same HCML but with allowed offline accounts by default
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [apache/ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
@@ -708,6 +725,9 @@
 
 ## JavaScript 
 
+- [dirkjanm/firefox-send-to-xbmc](https://github.com/dirkjanm/firefox-send-to-xbmc) - Send to XBMC/Kodi Firefox plugin
+- [akidinatophat/vnc-resolver-mastodon](https://github.com/akidinatophat/vnc-resolver-mastodon) - Bot that posts a random VNC Resolver entry to Mastodon.
+- [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
 - [dgudim/themes](https://github.com/dgudim/themes) - A collections of various themes made by me/taken from other people and tweaked
 - [cutelyst/Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt
@@ -818,7 +838,6 @@
 - [Mega-Mewthree/BetterDiscordPlugins](https://github.com/Mega-Mewthree/BetterDiscordPlugins) - Plugins and Libraries for BetterDiscord
 - [SpoonMcForky/replace-timestamps-pc](https://github.com/SpoonMcForky/replace-timestamps-pc) - Powercord plugin to replace plaintext timestamps with Discord's timestamps.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
@@ -973,7 +992,7 @@
 - [vibrantleaf/locatarr](https://github.com/vibrantleaf/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
 - [DuckOfDisorder/BlobCats](https://github.com/DuckOfDisorder/BlobCats) - A rich repositery of BlobCat emojis, derived from Google's blob emojis
-- [ipverse/rir-ip](https://github.com/ipverse/rir-ip) - Download IP address lists grouped by country
+- [ipverse/country-ip-blocks](https://github.com/ipverse/country-ip-blocks) - Download IP address lists grouped by country
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -1022,6 +1041,7 @@
 
 ## PHP 
 
+- [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
 - [cyberkathosting/ispconfig3](https://github.com/cyberkathosting/ispconfig3) - 
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [YGGverse/YGGtracker](https://github.com/YGGverse/YGGtracker) - A social-oriented BitTorrent catalog for the Yggdrasil network, written in the Symfony framework.
@@ -1055,6 +1075,7 @@
 
 ## PowerShell 
 
+- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI/HyperOS, One UI, and Pixel Launcher via ADB
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
@@ -1104,7 +1125,7 @@
 - [denismo/DynamoFS](https://github.com/denismo/DynamoFS) - Linux FUSE file system implementation with AWS DynamoDB as the storage
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
 - [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface KVM solution
-- [eracle/linkedin](https://github.com/eracle/linkedin) - Linkedin Automation Tool: Visit Profile, Connect, Message with AI
+- [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) - Linkedin Automation Tool: Visit Profile, Connect, Message with AI
 - [linkedin-developers/linkedin-api-python-client](https://github.com/linkedin-developers/linkedin-api-python-client) - Official Python client library for LinkedIn APIs
 - [ZeroDayArcade/capture-pmkid-wpa-wifi-hacking](https://github.com/ZeroDayArcade/capture-pmkid-wpa-wifi-hacking) - A python script for capturing a PMKID from a WiFi router for cracking WPA/WPA2 passwords.
 - [FHPythonUtils/SigStickers](https://github.com/FHPythonUtils/SigStickers) - Download sticker packs from Signal
@@ -1346,6 +1367,8 @@
 
 ## Shell 
 
+- [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
+- [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [GrapeApple0/ipench](https://github.com/GrapeApple0/ipench) - Yet Another Network Benchmark Script
 - [darac/plymouth-bgrt](https://github.com/darac/plymouth-bgrt) - Plymouth theme using your BGRT (UEFI logo)
@@ -1455,10 +1478,12 @@
 
 ## TypeScript 
 
+- [deerawan/vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
+- [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [GrapeApple0/misskey](https://github.com/GrapeApple0/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
-- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store.
+- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines
 - [doki-theme/doki-theme-vscode](https://github.com/doki-theme/doki-theme-vscode) - Cute anime character themes for VS-Code.
@@ -1566,6 +1591,7 @@
 - [pysio2007/AnyCast-WebSite](https://github.com/pysio2007/AnyCast-WebSite) - 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [NanaMorse/Cuckoo.Plus](https://github.com/NanaMorse/Cuckoo.Plus) - A GooglePlus-Like third-party web client for mastodon.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 
 ## Zig 
 
