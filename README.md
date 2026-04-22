@@ -24,6 +24,7 @@
 - [Elixir](#elixir)
 - [Fluent](#fluent)
 - [GDScript](#gdscript)
+- [GDShader](#gdshader)
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -257,7 +258,7 @@
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [raj-extremegamerz/Godot_Arm64_Builder](https://github.com/raj-extremegamerz/Godot_Arm64_Builder) - 
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [linuxmint/nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
 - [6r1d/rmr](https://github.com/6r1d/rmr) - RMR (or "RtMIDI, reduced") is a C-only rewrite of RtMIDI's Alsa part
 - [alsa-project/alsa-lib](https://github.com/alsa-project/alsa-lib) - The Advanced Linux Sound Architecture (ALSA) - library
@@ -348,7 +349,6 @@
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
-- [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to t
 - [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to research Microsoft Pre-Vista licensing mechanisms
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -505,10 +505,13 @@
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
 - [me2beats/code-background-image](https://github.com/me2beats/code-background-image) - this plugin allows to set a background image to Godot Engine Script Editor
 
+## GDShader 
+
+- [godot-extended-libraries/godot-realistic-water](https://github.com/godot-extended-libraries/godot-realistic-water) - Godot - Realistic Water Shader
+
 ## GLSL 
 
 - [y4my4my4m/kde-shader-wallpaper](https://github.com/y4my4my4m/kde-shader-wallpaper) - KDE / Plasma - Shader Wallpaper plugin
-- [godot-extended-libraries/godot-realistic-water](https://github.com/godot-extended-libraries/godot-realistic-water) - Godot - Realistic Water Shader
 - [Lexpartizan/Godot_sky_shader](https://github.com/Lexpartizan/Godot_sky_shader) - 
 
 ## Go 
@@ -535,7 +538,6 @@
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [carcinoma/compose-updater](https://github.com/carcinoma/compose-updater) - Automatically update your Docker Compose containers.
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [jasongerard/mlockex](https://github.com/jasongerard/mlockex) - Example code for using mlockall, containers, and linux capabilities.
 - [isc-projects/stork](https://github.com/isc-projects/stork) - Stork is a dashboard for BIND 9 and Kea DHCP.
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net
@@ -551,7 +553,7 @@
 - [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [webhookrelay/webhookrelay-operator](https://github.com/webhookrelay/webhookrelay-operator) - 🛰  A lightweight tunneling operator to receive & process webhooks/API requests without public IP or load balancers in your Kubernetes cluster
 - [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -698,7 +700,6 @@
 - [sryze/wirebug](https://github.com/sryze/wirebug) - Toggle Wi-Fi debugging on Android without a USB cable (needs root)
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
-- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [aaronjwood/PortAuthority](https://github.com/aaronjwood/PortAuthority) - A handy systems and security-focused tool, Port Authority is a very fast Android port scanner. Port Authority also allows you to quickly discover hosts on your network and will display useful network 
 - [gateship-one/odyssey](https://github.com/gateship-one/odyssey) - Odyssey music player
@@ -891,6 +892,7 @@
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
