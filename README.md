@@ -101,6 +101,7 @@
 
 ## C 
 
+- [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [AyatanaIndicators/libayatana-appindicator](https://github.com/AyatanaIndicators/libayatana-appindicator) - Ayatana Application Indicators Shared Library (Gtk-based, DBusMenu-based, OBSOLETE, please use libayatana-appindicator-glib for new implementations)
@@ -286,7 +287,7 @@
 - [dvf/blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [stakira/OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
+- [openutau/OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 - [OpenNefia/OpenNefia](https://github.com/OpenNefia/OpenNefia) - Moddable engine reimplementation of the Japanese roguelike Elona.
 - [paulloz/godot-ink](https://github.com/paulloz/godot-ink) - Ink integration for Godot Engine.
 - [ObsidianMC/Obsidian](https://github.com/ObsidianMC/Obsidian) - A C# implementation of the Minecraft server protocol.
@@ -295,6 +296,7 @@
 
 ## C++ 
 
+- [cawilliamson/treble_restlessos](https://github.com/cawilliamson/treble_restlessos) - 
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework
 - [refi64/nickle](https://github.com/refi64/nickle) - A lightweight, C++17-based, fully compatible implementation of the Chromium pickle format
 - [refi64/zypak](https://github.com/refi64/zypak) - Run Electron binaries in a sandboxed Flatpak environment
@@ -362,7 +364,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
-- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
+- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache - Source Code
 - [godotengine/godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
 - [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, PCB, and language
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
@@ -519,6 +521,7 @@
 
 ## Go 
 
+- [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - AmneziaWG VPN protocol
 - [didil/inhooks](https://github.com/didil/inhooks) - Incoming Webhooks Gateway built with Go. Uses Redis for storage/queueing.
 - [Kioubit/FlapAlerted](https://github.com/Kioubit/FlapAlerted) - BGP Update based flap detection & statistics
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
@@ -584,7 +587,7 @@
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) - Standalone signaling server for Nextcloud Talk.
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -624,7 +627,7 @@
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger.
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
@@ -1271,7 +1274,7 @@
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [jslee02/awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) - :sunglasses: A curated list of awesome collision detection libraries and resources
@@ -1378,7 +1381,7 @@
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
-- [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
+- [iliana/emojos.in](https://github.com/iliana/emojos.in) - [MOVED] https://codeberg.org/iliana/emojos.app
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
@@ -1404,12 +1407,11 @@
 
 ## Shell 
 
-- [cawilliamson/treble_restlessos](https://github.com/cawilliamson/treble_restlessos) - 
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
@@ -1418,7 +1420,7 @@
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [yeyushengfan258/Lyra-Cursors](https://github.com/yeyushengfan258/Lyra-Cursors) - Lyra Cursors for linux desktops
 - [jirutka/apk-autoupdate](https://github.com/jirutka/apk-autoupdate) - Automatic updates for Alpine Linux and other systems using apk-tools
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
@@ -1561,7 +1563,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [gabboman/wafrn](https://github.com/gabboman/wafrn) - Wafrn is a federated social media inspired by tumblr. Join us and have fun
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
