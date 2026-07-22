@@ -8,6 +8,7 @@
 - [ASL](#asl)
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [BlitzBasic](#blitzbasic)
 - [C](#c)
@@ -91,6 +92,10 @@
 - [kavyanshgangwar/os](https://github.com/kavyanshgangwar/os) - A basic os to learn the concepts behind Operating Systems.
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 
+## Astro 
+
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
+
 ## Batchfile 
 
 - [invinciblevenom/debloat_samsung_android](https://github.com/invinciblevenom/debloat_samsung_android) - Universal debloater for Samsung OneUI 2.5 to 6.1
@@ -101,6 +106,8 @@
 
 ## C 
 
+- [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -216,7 +223,6 @@
 - [wujunze/nginx-http-echo-module](https://github.com/wujunze/nginx-http-echo-module) - A simple Nginx echo module
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
-- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [eggert/tz](https://github.com/eggert/tz) - Time zone database and code
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -239,7 +245,7 @@
 - [artix-linux/halt](https://github.com/artix-linux/halt) - Artix Linux wrapper program for OpenRC and runit shutdown scheme (mirror)
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
@@ -408,7 +414,6 @@
 - [L4ki/Magna-Plasma-Themes](https://github.com/L4ki/Magna-Plasma-Themes) - Magna Themes For Plasma Desktop
 - [l-n-s/i2pd-webui](https://github.com/l-n-s/i2pd-webui) - Fancy i2pd web user interface
 - [dracula/funkwhale](https://github.com/dracula/funkwhale) - 🧛🏻‍♂️ Dark theme for Funkwhale
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 - [monstrousdev/themes](https://github.com/monstrousdev/themes) - Discord themes
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
@@ -571,7 +576,7 @@
 - [smallstep/step-issuer](https://github.com/smallstep/step-issuer) - ⚙️A certificate issuer for cert-manager using step certificates CA
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [virtualzone/compose-updater](https://github.com/virtualzone/compose-updater) - Automatically update your Docker Compose containers.
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+- [OwO-Network/DLX](https://github.com/OwO-Network/DLX) - DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE.
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
@@ -622,12 +627,12 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
-- [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger.
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -662,7 +667,6 @@
 - [umpox/TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [adamharrison/lite-xl-web](https://github.com/adamharrison/lite-xl-web) - 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [wimagguc/jquery-eu-cookie-law-popup](https://github.com/wimagguc/jquery-eu-cookie-law-popup) - An easy-to-install jQuery plugin to create EU Cookie Law popups
 - [Greybeard-Entertainment/Greybeard-Entertainment.github.io](https://github.com/Greybeard-Entertainment/Greybeard-Entertainment.github.io) - Rendered Greybeard Entertainment articles
@@ -885,6 +889,7 @@
 
 ## Kotlin 
 
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [vayun-mathur/Alternative-Location-Services](https://github.com/vayun-mathur/Alternative-Location-Services) - alternative location services to GPS or Google Location Services for Android
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
@@ -933,7 +938,7 @@
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [orlabs/orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [lite-xl/lite-xl-colors](https://github.com/lite-xl/lite-xl-colors) - Themes for the Lite XL editor
@@ -975,7 +980,7 @@
 
 ## Others 
 
-- [PunkPangolin/org.strawberrymusicplayer.strawberry](https://github.com/PunkPangolin/org.strawberrymusicplayer.strawberry) - 
+- [firelzrd/kcompressd-unofficial](https://github.com/firelzrd/kcompressd-unofficial) - Asynchronous swapper (forked from the original Kcompressd)
 - [adoptium/temurin17-binaries](https://github.com/adoptium/temurin17-binaries) - Temurin 17 binaries
 - [muttleyxd/clang-tools-static-binaries](https://github.com/muttleyxd/clang-tools-static-binaries) - static-linked versions of clang tools for Linux, Mac OS X and Windows, available in AUR as clang-format-static-bin
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
@@ -1005,7 +1010,6 @@
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [Pissandshittium/pissandshittium](https://github.com/Pissandshittium/pissandshittium) - Pissandshittium Source
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [xiaziawsl/Open-Source-Girls](https://github.com/xiaziawsl/Open-Source-Girls) - some personification pictures I draw. just to save them here, hope you'll like them
 - [opencollective/opencollective](https://github.com/opencollective/opencollective) - We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communicati
@@ -1163,7 +1167,7 @@
 - [denismo/DynamoFS](https://github.com/denismo/DynamoFS) - Linux FUSE file system implementation with AWS DynamoDB as the storage
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
 - [TechxArtisanStudio/Openterface](https://github.com/TechxArtisanStudio/Openterface) - Website for Openterface KVM solution
-- [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) - Linkedin Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.
+- [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) - Agentic Email Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.
 - [linkedin-developers/linkedin-api-python-client](https://github.com/linkedin-developers/linkedin-api-python-client) - Official Python client library for LinkedIn APIs
 - [ZeroDayArcade/capture-pmkid-wpa-wifi-hacking](https://github.com/ZeroDayArcade/capture-pmkid-wpa-wifi-hacking) - A python script for capturing a PMKID from a WiFi router for cracking WPA/WPA2 passwords.
 - [FHPythonUtils/SigStickers](https://github.com/FHPythonUtils/SigStickers) - Download sticker packs from Signal
@@ -1203,6 +1207,7 @@
 - [WeirdTreeThing/chromebook-linux-audio](https://github.com/WeirdTreeThing/chromebook-linux-audio) - Script that enables audio support on many Chrome devices running various Linux distros
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [home-assistant/supervisor](https://github.com/home-assistant/supervisor) - :house_with_garden: Home Assistant Supervisor
@@ -1275,9 +1280,10 @@
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
+- [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger.
 - [jslee02/awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) - :sunglasses: A curated list of awesome collision detection libraries and resources
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -1398,7 +1404,7 @@
 - [opennic/opennic-web](https://github.com/opennic/opennic-web) - Official OpenNIC Homepage
 - [mastodon/documentation](https://github.com/mastodon/documentation) - Mastodon documentation
 - [d-eathrow/anonymousland](https://github.com/d-eathrow/anonymousland) - Anonymity, Privacy, Security
-- [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
+- [ClearVision/OLD-ClearVision-v6](https://github.com/ClearVision/OLD-ClearVision-v6) - Highly customizable theme for BetterDiscord.
 
 ## Scala 
 
@@ -1408,6 +1414,10 @@
 
 ## Shell 
 
+- [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
+- [firelzrd/le9uo](https://github.com/firelzrd/le9uo) - [PATCH] mm: Protect the working set under memory pressure to prevent thrashing, avoid high latency and prevent livelock in near-OOM conditions
+- [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
+- [PunkPangolin/org.strawberrymusicplayer.strawberry](https://github.com/PunkPangolin/org.strawberrymusicplayer.strawberry) - 
 - [cawilliamson/treble_restlessos](https://github.com/cawilliamson/treble_restlessos) - 
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
