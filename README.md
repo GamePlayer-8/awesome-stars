@@ -193,7 +193,7 @@
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [xanmod/linux](https://github.com/xanmod/linux) - Git repository moved to https://gitlab.com/xanmod/linux
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
-- [open-quantum-safe/oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
+- [open-quantum-safe/oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3+ provider containing post-quantum algorithms
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [mbroz/cryptsetup](https://github.com/mbroz/cryptsetup) - Cryptsetup backup upstream repository https://gitlab.com/cryptsetup/cryptsetup
 - [Paciente8159/uCNC](https://github.com/Paciente8159/uCNC) - µCNC - Universal CNC firmware for microcontrollers
@@ -302,6 +302,7 @@
 
 ## C++ 
 
+- [aranemac/munin-smart-nvme](https://github.com/aranemac/munin-smart-nvme) - Converts smartctl output for NVMe drives to old format (readable for munin smart_ plugin)
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / "init" system
 - [cawilliamson/treble_restlessos](https://github.com/cawilliamson/treble_restlessos) - 
@@ -527,6 +528,8 @@
 
 ## Go 
 
+- [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - AmneziaWG VPN protocol
 - [didil/inhooks](https://github.com/didil/inhooks) - Incoming Webhooks Gateway built with Go. Uses Redis for storage/queueing.
@@ -537,7 +540,6 @@
 - [chainguard-forks/kaniko](https://github.com/chainguard-forks/kaniko) - Build Container Images In Kubernetes
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [woodpecker-ci/plugin-git](https://github.com/woodpecker-ci/plugin-git) - Woodpecker plugin for cloning Git repositories
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [q3k/crowbar](https://github.com/q3k/crowbar) - Migrated to Codeberg
@@ -583,11 +585,11 @@
 - [OwO-Network/DLX](https://github.com/OwO-Network/DLX) - DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE.
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [linka-cloud/d2vm](https://github.com/linka-cloud/d2vm) - Build Virtual Machine Image from Dockerfile or Docker image
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -843,10 +845,9 @@
 - [Felx-B/vscode-web](https://github.com/Felx-B/vscode-web) - Visual Studio Code for browser
 - [aarondoet/BetterDiscordStuff](https://github.com/aarondoet/BetterDiscordStuff) - all my stuff for betterdiscord
 - [Farcrada/DiscordPlugins](https://github.com/Farcrada/DiscordPlugins) - This repo holds all the plugins I made for Discord.
-- [BlastWind/roadmapedia](https://github.com/BlastWind/roadmapedia) - An edutech webapp (V3) to create, track, and share learning roadmaps
+- [BlastWind/roadmapedia](https://github.com/BlastWind/roadmapedia) - My third attempt at an educational webapp to create, track, and share learning roadmaps
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
 - [turt2live/matrix-appservice-webhooks](https://github.com/turt2live/matrix-appservice-webhooks) - Slack-compatible webhooks for matrix
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [cockpit-project/cockpit-podman](https://github.com/cockpit-project/cockpit-podman) - Cockpit UI for podman containers
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
@@ -1081,7 +1082,7 @@
 
 ## PHP 
 
-- [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
+- [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP. Blocking anything flagged as GenAI by default.
 - [cyberkathosting/ispconfig3](https://github.com/cyberkathosting/ispconfig3) - 
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [YGGverse/YGGtracker](https://github.com/YGGverse/YGGtracker) - A social-oriented BitTorrent catalog for the Yggdrasil network, written in the Symfony framework.
@@ -1107,6 +1108,7 @@
 
 ## Perl 
 
+- [munin-monitoring/contrib](https://github.com/munin-monitoring/contrib) - Contributed stuff for munin (plugins, tools, etc...)
 - [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
@@ -1132,7 +1134,7 @@
 - [quantum5/bird-filter](https://github.com/quantum5/bird-filter) - Quantum's composable filters and helpers for building a proper ASN
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [HuJK/DN42-AutoPeer](https://github.com/HuJK/DN42-AutoPeer) - DN42 Automatic Peer System
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [bendikro/supervisord-dependent-startup](https://github.com/bendikro/supervisord-dependent-startup) - An event listener for supervisord that does ordered startup
@@ -1263,6 +1265,7 @@
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [gallizoltan/usercount](https://github.com/gallizoltan/usercount) - User statistics bot for Mastodon
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [SleepyLili/tlapbot](https://github.com/SleepyLili/tlapbot) - Owncast bot written in Python+Flask, providing channel points and channel point redeems for your owncast stream. Reward your viewers for watching, and infuse your stream with fun interactions and chal
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
@@ -1280,6 +1283,7 @@
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger.
@@ -1385,7 +1389,7 @@
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold 🦠: A Modern Linker in Rust 🦀
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1395,10 +1399,9 @@
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
 
 ## SCSS 
