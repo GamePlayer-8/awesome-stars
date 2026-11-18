@@ -280,6 +280,7 @@
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [HaveIBeenPwned/PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 - [miawinter98/Wave](https://github.com/miawinter98/Wave) - The Collaborative Open Source Blogging Engine
 - [squidink7/ScaryBoatGame](https://github.com/squidink7/ScaryBoatGame) - 
@@ -394,7 +395,7 @@
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
@@ -408,6 +409,7 @@
 
 ## CSS 
 
+- [SwordPuffin/Rewaita](https://github.com/SwordPuffin/Rewaita) - Bring color to Adwaita
 - [dgudim/themes](https://github.com/dgudim/themes) - A collections of various themes made by me/taken from other people and tweaked
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [bunnywaffle/GIMP-3-Themes](https://github.com/bunnywaffle/GIMP-3-Themes) - Themes for GIMP 3
@@ -463,7 +465,6 @@
 - [Speedy37/docker-libvirtd](https://github.com/Speedy37/docker-libvirtd) - Alpine Linux libvirt (qemu+kvm) docker image
 - [thereapsz/alpine-pxe](https://github.com/thereapsz/alpine-pxe) - a Docker container running a continuous PXE server
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [andyshinn/docker-alpine-abuild](https://github.com/andyshinn/docker-alpine-abuild) - Alpine Linux package builder in Docker
 - [jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
 - [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
@@ -635,7 +636,7 @@
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
@@ -643,7 +644,7 @@
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 
@@ -737,7 +738,7 @@
 - [Elikill58/Negativity](https://github.com/Elikill58/Negativity) - Github of Negativity, a Minecraft AntiCheat. Premium at 8€:
 - [MrMicky-FR/FastInv](https://github.com/MrMicky-FR/FastInv) - Lightweight and easy-to-use inventory API for Bukkit plugins.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-- [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡
+- [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Paper(26.1) Minecraft server implementation in modding environment using Mixin. ⚡
 - [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
 - [SkinsRestorer/SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorer) - 🎨 The most popular skin plugin for Minecraft
 - [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google Cloud Platform
@@ -800,11 +801,11 @@
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [ngxson/portainer-ce-without-annoying](https://github.com/ngxson/portainer-ce-without-annoying) - A drop-in replacement for portainer/portainer-ce, without annoying UI elements or tracking script
 - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [your-digital-rights/yourdigitalrights.org](https://github.com/your-digital-rights/yourdigitalrights.org) - Own your data
 - [absturztau-be/tor-dash](https://github.com/absturztau-be/tor-dash) - a web frontend for tor node statistics
@@ -813,6 +814,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [gabboman/wafrn-backend](https://github.com/gabboman/wafrn-backend) - 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [ncase/wbwwb](https://github.com/ncase/wbwwb) - We Become What We Behold – a minigame about the news!
@@ -844,7 +846,7 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
-- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - [ BEWARE: NO MAINTAINER ] An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [xuset/planktos](https://github.com/xuset/planktos) - Serving websites over bittorrent
 - [Felx-B/vscode-web](https://github.com/Felx-B/vscode-web) - Visual Studio Code for browser
 - [aarondoet/BetterDiscordStuff](https://github.com/aarondoet/BetterDiscordStuff) - all my stuff for betterdiscord
@@ -914,7 +916,6 @@
 - [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-- [CypherpunkArmory/Inkscape](https://github.com/CypherpunkArmory/Inkscape) - UserLAnd Inkscape
 - [captainepoch/husky](https://github.com/captainepoch/husky) - The most famous Pleroma client for Android.
 - [apognu/otter](https://github.com/apognu/otter) - Music player for Funkwhale
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
@@ -999,7 +1000,7 @@
 - [msys2/msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [blanckth/qemuTermux](https://github.com/blanckth/qemuTermux) - Use QEMU in Termux as a full virtual machine and Deploy Any OS and iso
 - [ariadata/qbittorrent-warp](https://github.com/ariadata/qbittorrent-warp) - qbittorrent-warp
-- [platformbuilds/LinkedInIPLists](https://github.com/platformbuilds/LinkedInIPLists) - Hourly Checked and Updated if LinkedIn modifies their list
+- [SecOps-Institute/LinkedInIPLists](https://github.com/SecOps-Institute/LinkedInIPLists) - Hourly Checked and Updated if LinkedIn modifies their list
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) - A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -1013,6 +1014,7 @@
 - [TechxArtisanStudio/Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) - Openterface Mini-KVM:  Hardware Design, Schematics and Components
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 10th gen or AMD Ryzen
 - [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [CypherpunkArmory/Inkscape](https://github.com/CypherpunkArmory/Inkscape) - UserLAnd Inkscape
 - [BlissRoms-x86/support](https://github.com/BlissRoms-x86/support) - Public repo for Bliss OS bug reports, feature requests etc.
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
@@ -1121,7 +1123,6 @@
 
 ## PowerShell 
 
-- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI/HyperOS, One UI, and Pixel Launcher via ADB
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
@@ -1192,6 +1193,7 @@
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
+- [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
@@ -1375,12 +1377,11 @@
 - [bottom-software-foundation/bottom-rs](https://github.com/bottom-software-foundation/bottom-rs) - 🥺
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 - [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) - FUSE implementation for overlayfs
 - [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl) - OpenSSL bindings for Rust
@@ -1436,7 +1437,7 @@
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
@@ -1584,7 +1585,6 @@
 - [openshift/console](https://github.com/openshift/console) - OpenShift Cluster Console UI
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [NotTobi/soundcloud-dl](https://github.com/NotTobi/soundcloud-dl) - Extension for downloading SoundCloud tracks
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
